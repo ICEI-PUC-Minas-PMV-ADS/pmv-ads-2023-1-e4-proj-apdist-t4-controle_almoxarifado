@@ -10,7 +10,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 | Julia Reis    |                                    |                |
 |--------------------|------------------------------------|----------------------------------------|
-|![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/PERSONA%2001.jpg)|**Idade:** 24 anos - |**Ocupação:** Gestora de linha produtiva em empresa de eletrodomésticos.| **Aplicativos:** Instagram, Facebook, Twitter, Pinterest, LinkedIn | 
+|![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/PERSONA%2001.jpg)|**Idade:** 24 anos - |**Ocupação:** Gestora de linha produtiva em empresa de eletrodomésticos.|**Aplicativos:** Instagram, Facebook, Twitter, Pinterest, LinkedIn | 
 |**Motivações:** Quer ter maior controle da linha de produção e insumos utilizados.  |**Frustrações:** Embora esteja se programando, tem sido ineficiente no acompanhamento da linha produtiva. |**Hobbies, História:** Adora ler e passear com seu pet, meditar e busca ajudar e incentivar mulheres a se recolocar no mercado|
 
 
