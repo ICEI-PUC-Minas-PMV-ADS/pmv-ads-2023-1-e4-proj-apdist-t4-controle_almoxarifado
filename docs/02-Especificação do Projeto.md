@@ -14,7 +14,11 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 | Alberto Souza   |                                    |                |                |
 |--------------------|------------------------------------|----------------------------------------|----------------------------------------|
-|![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/PERSONA%2002.jpg)|**Idade:** 41 anos|**Ocupação:** Auxiliar de Almoxarifado|**Aplicativos:** Facebook, Instagram e LinkedIn|**Motivação:** ●	Gosta de manter produtos e itens organizados e de fácil acesso aos demais colaboradores da empresa.|**Frustrações:** Não consegue lidar de forma eficiente com grandes fluxos de entrada e saída e itens do almoxarifado, causando gargalo de requisições.|**Hobbies, História:** Atua no mercado há mais de 5 anos e tem vasto conhecimento, gosta de viajar com a família, mas não tem conseguido ultimamente.|
+|![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/PERSONA%2002.jpg)|**Idade:** 41 anos|**Ocupação:** Auxiliar de Almoxarifado|**Aplicativos:** Facebook, Instagram e LinkedIn|**Motivação:** Gosta de manter produtos e itens organizados e de fácil acesso aos demais colaboradores da empresa.|**Frustrações:** Não consegue lidar de forma eficiente com grandes fluxos de entrada e saída e itens do almoxarifado, causando gargalo de requisições.|**Hobbies, História:** Atua no mercado há mais de 5 anos e tem vasto conhecimento, gosta de viajar com a família, mas não tem conseguido ultimamente.|
+
+| Mateus Kalliope  |                                    |                |                |
+|--------------------|------------------------------------|----------------------------------------|----------------------------------------|
+|![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/PERSONA%2003.jpg)|**Idade:** 63 anos|**Ocupação:** Proprietário de Micro empresa.|**Aplicativos:** Facebook, Instagram, Twitter e LinkedIn|**Motivação:** Quer ver sua empresa crescer e alcançar novos mercados.|**Frustrações:** Embora empresa esteja indo bem, não tem boa gestão de insumos e gastos.|**Hobbies, História:** Adora Estudar, investidor Cripto.|
 
 ## Histórias de Usuários
 
