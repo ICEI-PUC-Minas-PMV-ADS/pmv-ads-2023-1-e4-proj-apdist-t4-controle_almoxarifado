@@ -13,8 +13,8 @@ Os inventários são normalmente realizados em um intervalo de tempo de meses ou
 O objetivo geral deste projeto é a criação de um sistema de gerenciamento de almoxarifado, que seja de fácil utilização, com proposito de auxiliar o controle e gestão no almoxarifado.
 	Proporcionando um mecanismo eficaz para controlar tudo o que estiver armazenado evitando problemas de estoque.
 
-Como objetivos específicos, podemos ressaltar:
-•	Permitir o gerenciamento do estoque em tempo real, mesmo à distância e com acesso a diferentes dispositivos, como smartphones e tablets, por exemplo. 
+Como objetivos específicos, podemos ressaltar:<br>
+<br> ●	Permitir o gerenciamento do estoque em tempo real, mesmo à distância e com acesso a diferentes dispositivos, como smartphones e tablets, por exemplo.<br>
 •	Permitir a solicitação, inclusão e baixa de item, por usuário autorizado.
 ●	Permitir edição, inclusão e exclusão de item, do banco de dados.
 ●	Permitir criação de usuário com níveis de autonomia.
