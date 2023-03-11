@@ -8,10 +8,13 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
 
-| Julia Reis    |                                    |                |                |
-|--------------------|------------------------------------|----------------------------------------|----------------------------------------|
-|![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/PERSONA%2001.jpg)|**Idade:** 24 anos |**Ocupação:** Gestora de linha produtiva em empresa de eletrodomésticos.|**Aplicativos:** Instagram, Facebook, Twitter, Pinterest, LinkedIn|**Motivações:** Quer ter maior controle da linha de produção e insumos utilizados.|**Frustrações:** Embora esteja se programando, tem sido ineficiente no acompanhamento da linha produtiva.|**Hobbies, História:** Adora ler e passear com seu pet, meditar e busca ajudar e incentivar mulheres a se recolocar no mercado|
+| Julia Reis    |                                    |                |                |                |
+|--------------------|------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|
+|![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/PERSONA%2001.jpg)|**Idade:** 24 anos |**Ocupação:** Gestora de linha produtiva em empresa de eletrodomésticos.|**Aplicativos:** Instagram, Facebook, Twitter, Pinterest, LinkedIn|**Motivações:** Quer ter maior controle da linha de produção e insumos utilizados.|**Frustrações:** Embora esteja se programando, tem sido ineficiente no acompanhamento da linha produtiva.|**Hobbies, História:** Adora ler e passear com seu pet, meditar e busca ajudar e incentivar mulheres a se recolocar no mercado.|
 
+| Alberto Souza   |                                    |                |                |                |
+|--------------------|------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|
+|![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/PERSONA%2002.jpg)|**Idade:** 41 anos|**Ocupação:** Auxiliar de Almoxarifado|**Aplicativos:** Facebook, Instagram e LinkedIn|**Motivação:** ●	Gosta de manter produtos e itens organizados e de fácil acesso aos demais colaboradores da empresa.|**Frustrações:** Não consegue lidar de forma eficiente com grandes fluxos de entrada e saída e itens do almoxarifado, causando gargalo de requisições.|**Hobbies, História:** Atua no mercado há mais de 5 anos e tem vasto conhecimento, gosta de viajar com a família, mas não tem conseguido ultimamente.|
 
 ## Histórias de Usuários
 
