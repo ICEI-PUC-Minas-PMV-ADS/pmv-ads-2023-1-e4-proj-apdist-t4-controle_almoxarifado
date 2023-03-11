@@ -22,12 +22,20 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários.
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO... `PERSONA`| Quero/Desejo `O QUE` |PARA ... `POR QUE` |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Julia Reis | Poder buscar apenas por profissionais mulheres caso seja de meu interesse.| Não me preocupar com casos de assédio enquanto estou sozinha em casa.|
+|Julia Reis |Compartilhar minha opinião acerca do profissional que contratei.| Mostrar para todos se de fato ele é bom como todos acreditam que seja. |
+|Julia Reis |Fazer uma denúncia anônima se sofrer algum caso de assédio. |Ter a segurança de que não serei identificada pelo assediador.|
+|Julia Reis |Poder negociar o preço com o prestador em uma conversa aberta e interativa. |Garantir o melhor negócio para ambas as partes.|
+|Alberto Souza |Receber informações pessoais do cliente quando fecharmos o serviço. |Ter a segurança de que voltarei para a minha família sem problemas.|
+|Alberto Souza |Poder gerir minha agenda de serviços. |Conseguir atender todos os clientes da melhor forma e dentro do prazo.|
+|Alberto Souza |Saber das necessidades especiais dos clientes. |Prestar um atendimento personalizado, inclusivo e humanitário.|
+|Julia Reis |Ter várias formas de pagamento. |Atender as minhas necessidades financeiras no momento.|
+
+## Histórias de Usuários
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
