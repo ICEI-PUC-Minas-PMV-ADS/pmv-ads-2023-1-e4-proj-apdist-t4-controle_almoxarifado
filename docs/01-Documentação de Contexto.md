@@ -10,8 +10,7 @@ Os inventários são normalmente realizados em um intervalo de tempo de meses ou
 
 ## Objetivos
 
-O objetivo geral deste projeto é a criação de um sistema de gerenciamento de almoxarifado, que seja de fácil utilização, com proposito de auxiliar o controle e gestão no almoxarifado.
-	Proporcionando um mecanismo eficaz para controlar tudo o que estiver armazenado evitando problemas de estoque.
+O objetivo geral deste projeto é a criação de um sistema de gerenciamento de almoxarifado, que seja de fácil utilização, com proposito de auxiliar o controle e gestão no almoxarifado. Proporcionando um mecanismo eficaz para controlar tudo o que estiver armazenado evitando problemas de estoque.
 
 Como objetivos específicos, podemos ressaltar:<br>
 <br> ● Permitir o gerenciamento do estoque em tempo real, mesmo à distância e com acesso a diferentes dispositivos, como smartphones e tablets, por exemplo.<br>
@@ -22,10 +21,8 @@ Como objetivos específicos, podemos ressaltar:<br>
 ## Justificativa
 
 Uma das principais perdas de uma negócio sem uma boa gestão de almoxarifado é na sua performance. 
-Uma gestão do estoque arcaica, sem recursos de controle de estoque, pode prejudicar todo seu esforço para se manter competitivo, já que interfere diretamente na qualidade da experiência do cliente.
-Aliás, podem afastar sua organização do topo da concorrência, prejudicando seus resultados no curto, médio e longo prazo.
-A falta de controle de estoque é um dos principais sintomas de problemas atuais e futuros.
-De acordo com dados divulgados na Robotic Business Review, armazéns automatizados e eficientes demonstraram:
+Uma gestão do estoque arcaica, sem recursos de controle de estoque, pode prejudicar todo seu esforço para se manter competitivo, já que interfere diretamente na qualidade da experiência do cliente. Aliás, podem afastar sua organização do topo da concorrência, prejudicando seus resultados no curto, médio e longo prazo. A falta de controle de estoque é um dos principais sintomas de problemas atuais e futuros.
+<br>De acordo com dados divulgados na Robotic Business Review, armazéns automatizados e eficientes demonstraram:<br>
 
 <br> ● Probabilidade 76% maior de aumentar a precisão do inventário para 99% ou mais;<br>
 <br> ● Probabilidade 36% maior de reduzir os custos de mão de obra em uma média de 3% ao ano;<br>
