@@ -1,46 +1,43 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O controle e gestão de almoxarifado é uma parte essencial da logística e controle financeiro de qualquer segmento do ramo empresarial ou até mesmo, pode ser aplicado no dia a dia em gastos e controle do lar. Sem ele, o histórico de dados do seu negócio pode ficar insustentável e imprevisível. Assim o controle de almoxarifado é um método e/ou sistema de gestão de documentos, processos ou registros de um negócio. De forma geral, o controle de almoxarifado serve para: controlar o que entra, o que sai, quais equipamentos sua organisaçõa tem e quais precisa. Isto é: monitorar tudo que entra e sai do seu bolso e do seu negócio, quais são as necessidades e soluções propostas.
+A falta do uso de um bom software, no controle do almoxarifado pode ser a origem de grande parte dos problemas na gestão.
+A tecnologia existe para facilitar os processos, organizá-los e, principalmente, garantir a sua acurácia. Use-a a seu favor. O WMS (Warehouse Management System), software de gestão de armazéns, pode ser um poderoso aliado, pois ele se integra ao sistema ERP, fazendo toda a conexão com as demais áreas de sua empresa, automatiza diversos processos, garantindo a sua eficácia, e conta com indicadores que podem ser acessados em tempo real, possibilitando maior controle de todas as movimentações no armazém. Com o WMS, a acurácia do estoque pode chegar a 99%, como foi o caso da “Dental Cremer” https://delage.com.br/casos/dental-cremer-com-o-wms-delage-rx/.
+Mediante isso, este projeto visa auxiliar o controle do almoxarifado, sanando as necessidades citadas anteriormente. 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Os inventários são normalmente realizados em um intervalo de tempo de meses ou até anualmente. Durante esse período, se o controle não for feito ostensivo e eficiente, é inevitável a perca de controle e de gerenciamento de materiais. O problema pode se estender e causar o desabastecimento de setores, linhas de produção e outras ramificações essenciais para o bom funcionamento da empresa.  Outro problema que pode acontecer pela má gestão de estoque é o planejamento de entregas podendo atrasar por qualquer motivo e quanto maior o tempo com a falta de estoque, mais clientes vão buscar o produto na concorrência. Dessa forma, não sendo possível realizar uma previsão dos pedidos, levando em consideração outras informações da empresa, como velocidade a velocidade de vendas.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste projeto é a criação de um sistema de gerenciamento de almoxarifado, que seja de fácil utilização, com proposito de auxiliar o controle e gestão no almoxarifado.
+	Proporcionando um mecanismo eficaz para controlar tudo o que estiver armazenado evitando problemas de estoque.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Como objetivos específicos, podemos ressaltar:
+•	Permitir o gerenciamento do estoque em tempo real, mesmo à distância e com acesso a diferentes dispositivos, como smartphones e tablets, por exemplo. 
+•	Permitir a solicitação, inclusão e baixa de item, por usuário autorizado.
+●	Permitir edição, inclusão e exclusão de item, do banco de dados.
+●	Permitir criação de usuário com níveis de autonomia.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Uma das principais perdas de uma negócio sem uma boa gestão de almoxarifado é na sua performance. 
+Uma gestão do estoque arcaica, sem recursos de controle de estoque, pode prejudicar todo seu esforço para se manter competitivo, já que interfere diretamente na qualidade da experiência do cliente.
+Aliás, podem afastar sua organização do topo da concorrência, prejudicando seus resultados no curto, médio e longo prazo.
+A falta de controle de estoque é um dos principais sintomas de problemas atuais e futuros.
+De acordo com dados divulgados na Robotic Business Review, armazéns automatizados e eficientes demonstraram:
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+•	probabilidade 76% maior de aumentar a precisão do inventário para 99% ou mais;
+•	probabilidade 36% maior de reduzir os custos de mão de obra em uma média de 3% ao ano;
+•	probabilidade 40% maior de realizar envio consistente no mesmo dia que o pedido for efetuado.
+Com base nessa realidade, a criação de um sistema de controle de almoxarifado faz-se necessário.
+
 
 > **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+> - (https://www.roboticsbusinessreview.com/supply-chain/full-warehouse-automation-is-the-goal-and-the-opportunity-for-both-provider/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O foco deste trabalho tem como público alvo pequenos e grandes negócios, que buscam um controle de produtos/itens para ter uma gestão dos mesmos.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
