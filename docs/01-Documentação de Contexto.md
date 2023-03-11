@@ -14,10 +14,10 @@ O objetivo geral deste projeto é a criação de um sistema de gerenciamento de 
 	Proporcionando um mecanismo eficaz para controlar tudo o que estiver armazenado evitando problemas de estoque.
 
 Como objetivos específicos, podemos ressaltar:<br>
-<br> ●	Permitir o gerenciamento do estoque em tempo real, mesmo à distância e com acesso a diferentes dispositivos, como smartphones e tablets, por exemplo.<br>
-•	Permitir a solicitação, inclusão e baixa de item, por usuário autorizado.
-●	Permitir edição, inclusão e exclusão de item, do banco de dados.
-●	Permitir criação de usuário com níveis de autonomia.
+<br> ● Permitir o gerenciamento do estoque em tempo real, mesmo à distância e com acesso a diferentes dispositivos, como smartphones e tablets, por exemplo.<br>
+<br> ● Permitir a solicitação, inclusão e baixa de item, por usuário autorizado.<br>
+<br> ● Permitir edição, inclusão e exclusão de item, do banco de dados.<br>
+<br> ● Permitir criação de usuário com níveis de autonomia.<br>
 
 ## Justificativa
 
@@ -27,11 +27,10 @@ Aliás, podem afastar sua organização do topo da concorrência, prejudicando s
 A falta de controle de estoque é um dos principais sintomas de problemas atuais e futuros.
 De acordo com dados divulgados na Robotic Business Review, armazéns automatizados e eficientes demonstraram:
 
-•	probabilidade 76% maior de aumentar a precisão do inventário para 99% ou mais;
-•	probabilidade 36% maior de reduzir os custos de mão de obra em uma média de 3% ao ano;
-•	probabilidade 40% maior de realizar envio consistente no mesmo dia que o pedido for efetuado.
+<br> ● Probabilidade 76% maior de aumentar a precisão do inventário para 99% ou mais;<br>
+<br> ● Probabilidade 36% maior de reduzir os custos de mão de obra em uma média de 3% ao ano;<br>
+<br> ● Probabilidade 40% maior de realizar envio consistente no mesmo dia que o pedido for efetuado.<br>
 Com base nessa realidade, a criação de um sistema de controle de almoxarifado faz-se necessário.
-
 
 > **Links Úteis**:
 > - (https://www.roboticsbusinessreview.com/supply-chain/full-warehouse-automation-is-the-goal-and-the-opportunity-for-both-provider/)
