@@ -39,5 +39,3 @@ Com base nessa realidade, a criação de um sistema de controle de almoxarifado 
 ## Público-Alvo
 
 O foco deste trabalho tem como público alvo pequenos e grandes negócios, que buscam um controle de produtos/itens para ter uma gestão dos mesmos.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
