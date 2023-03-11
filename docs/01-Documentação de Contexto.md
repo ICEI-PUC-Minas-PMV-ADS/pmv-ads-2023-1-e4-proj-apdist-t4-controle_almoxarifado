@@ -30,6 +30,7 @@ De acordo com dados divulgados na Robotic Business Review, armazéns automatizad
 <br> ● Probabilidade 76% maior de aumentar a precisão do inventário para 99% ou mais;<br>
 <br> ● Probabilidade 36% maior de reduzir os custos de mão de obra em uma média de 3% ao ano;<br>
 <br> ● Probabilidade 40% maior de realizar envio consistente no mesmo dia que o pedido for efetuado.<br>
+
 Com base nessa realidade, a criação de um sistema de controle de almoxarifado faz-se necessário.
 
 > **Links Úteis**:
