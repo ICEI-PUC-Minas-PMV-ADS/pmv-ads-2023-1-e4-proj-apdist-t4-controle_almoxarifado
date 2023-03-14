@@ -29,14 +29,11 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 
 |EU COMO... `PERSONA`| Quero/Desejo `O QUE` |PARA ... `POR QUE` |
 |--------------------|------------------------------------|----------------------------------------|
-|Julia Reis | Poder buscar apenas por profissionais mulheres caso seja de meu interesse.| Não me preocupar com casos de assédio enquanto estou sozinha em casa.|
-|Julia Reis |Compartilhar minha opinião acerca do profissional que contratei.| Mostrar para todos se de fato ele é bom como todos acreditam que seja. |
-|Julia Reis |Fazer uma denúncia anônima se sofrer algum caso de assédio. |Ter a segurança de que não serei identificada pelo assediador.|
+|Julia Reis |Ter ferramentas de índice da produção e ressuprimento automático de insumos.| Indicadores de produção e confiabilidade do estoque.|
 |Julia Reis |Poder negociar o preço com o prestador em uma conversa aberta e interativa. |Garantir o melhor negócio para ambas as partes.|
-|Alberto Souza |Receber informações pessoais do cliente quando fecharmos o serviço. |Ter a segurança de que voltarei para a minha família sem problemas.|
-|Alberto Souza |Poder gerir minha agenda de serviços. |Conseguir atender todos os clientes da melhor forma e dentro do prazo.|
-|Alberto Souza |Saber das necessidades especiais dos clientes. |Prestar um atendimento personalizado, inclusivo e humanitário.|
-|Julia Reis |Ter várias formas de pagamento. |Atender as minhas necessidades financeiras no momento.|
+|Alberto Souza |Ter catalogação, localização e controle do estoque. |Identificar, gerir demandas com agilidade. 
+|Alberto Souza |Reter e construir carteira de clientes.|Ter maior competitividade e qualidade no atendimento clientes.|
+|Mateus Kalliope |Ter . |Atender as minhas necessidades financeiras no momento.|
 
 ## Modelagem do Processo de Negócio 
 
