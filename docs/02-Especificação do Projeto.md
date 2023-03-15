@@ -79,19 +79,14 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O site deve permitir que os usuários criem e editem um perfil com dados pessoais | ALTA | 
-|RF-002| O site deve permitir que os usuários busquem prestadores por região delimitada   | ALTA |
+|RF-001| O site deve permitir que os usuários se cadastrem na plataforma | ALTA | 
+|RF-002| O site deve permitir que os usuários façam login/ logout  | ALTA |
 |RF-003| O site deve possuir filtros para parametrizar a busca |MÉDIA |
-|RF-004| O site deve permitir o cadastramento dos serviços e respectivas categorias  | ALTA |
-|RF-005| O site deve permitir o preenchimento dos tipos de serviços feitos no campo de descrição |MÉDIA |
-|RF-006| O site deve permitir informar aos usuários dados referentes a acessibilidade (filhos, necessidades especiais etc.) | BAIXA | 
-|RF-007| O site deve permitir feedbacks com notas, elogios, reclamações e denúncias   | MÉDIA |
-|RF-008| O site deve possibilitar a interação entre os usuários por meio de um fórum denominado “faça você mesmo” |BAIXA |
-|RF-009| O site deve permitir a contratação e conclusão do check list com todas as informações do serviço | ALTA |
-|RF-0010|O site deve permitir a visualização da agenda de serviços por parte do prestador |MÉDIA |
-|RF-0011| O site deve possuir os tipos de pagamento aceitos pelo prestador de serviço  | MÉDIA |
-|RF-0012| O site deve ter um chat de interação entre usuário e prestador | ALTA |
-|RF-0013| O site deve notificar o usuário e o prestador da solicitação de serviço em aberto, da contratação ou alteração da execução do serviço |MÉDIA |
+|RF-004| O site deve permitir o gerenciamento de produtos do almoxarifado  | ALTA |
+|RF-005| O site deve permitir que os usuários tenham uma área de grenciamento de dados pessoais |MÉDIA |
+|RF-006| O site deve permitir a geração de relatórios | BAIXA | 
+|RF-007| O site deve permitir o gerencimaento de fornecedores | BAIXA | 
+
 
 ### Requisitos não Funcionais
 
@@ -100,13 +95,13 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku) | ALTA | 
-|RNF-002| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada | ALTA |
-|RNF-003| O site deve ter um design simples e autoexplicativo, com bom nível de contraste entre os elementos da tela em conformidade | MÉDIA | 
-|RNF-004| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge, Safari) | ALTA |
+|RNF-002| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada | BAIXA |
+|RNF-003| O site deve ter um design simples e autoexplicativo, com bom nível de contraste entre os elementos da tela em conformidade | BAIXA | 
+|RNF-004| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge, Safari) | MÉDIA |
 |RNF-005| O site deve estar acessível 24/7 | MÉDIA | 
 |RNF-006| O site deve testar a segurança e veracidade do usuário |  ALTA | 
-|RNF-007| O site deve possibilitar o armazenamento de imagens (.jpeg, .jpg, .png) e vídeos (.mp4, .mpeg, .mpg, .avi) | BAIXA | 
 |RNF-008| O site deve estar em conformidade com a LGPD | ALTA | 
+|RNF-008| O sistema deve funcionar de forma distribuida, ficando acessivel nos formatos weB e mobile | ALTA | 
 
 ## Restrições
 
