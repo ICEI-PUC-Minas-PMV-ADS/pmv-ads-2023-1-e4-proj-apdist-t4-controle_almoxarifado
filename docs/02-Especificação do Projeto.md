@@ -30,10 +30,9 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 |EU COMO... `PERSONA`| Quero/Desejo `O QUE` |PARA ... `POR QUE` |
 |--------------------|------------------------------------|----------------------------------------|
 |Julia Reis | Organizar as informações em um único lugar| Dimininuir a papelada e fazer uso de um único meio para gerir o almoxarifado|
-|Julia Reis |Compartilhar minha opinião acerca do profissional que contratei.| Mostrar para todos se de fato ele é bom como todos acreditam que seja. |
-|Julia Reis |Poder negociar o preço com o prestador em uma conversa aberta e interativa. |Garantir o melhor negócio para ambas as partes.|
-|Alberto Souza |Receber informações pessoais do cliente quando fecharmos o serviço. |Ter a segurança de que voltarei para a minha família sem problemas.|
-| Mateus Kalliope |Poder gerir minha agenda de serviços. |Conseguir atender todos os clientes da melhor forma e dentro do prazo.|
+|Julia Reis | Listar os fornecedores. | Saber quem são as empresas/ indivíduos que participam do processo.|
+|Alberto Souza | Possibilitar que funcionários sejam autonomos o gestão dos processos. | Democratizar e agilizar a gestão dos processos.|
+| Mateus Kalliope |Gerar documentação do que entrou e saiu no almoxarifado. | Gear conhecimento do que é mais necessário e tomar decisões mais assertivas.|
 |Alberto Souza |Ter controle do fluxo dos produtos |Facilitar o entendimento do que é mais necessário junto aos fornecedores|
 
 
