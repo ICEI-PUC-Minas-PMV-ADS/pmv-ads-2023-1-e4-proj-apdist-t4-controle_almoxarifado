@@ -63,9 +63,16 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em segu
 
 Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
 
-Usar o seguinte modelo: 
+|Indicador|	Objetivos|	Descrição| Cálculo|	Fonte dados | Perspectiva|
+|---------|------------------------------------------------|--------------------------------------------------------------------|--------|--------|--------|
+|Cadastros de usuários|	Avaliar a aceitação do aplicativo |	 Medir a aceitação do aplicativo atráves da quantidade de cadastros de novos usuários |Percentual de novos usuários  | Tabela de cadastro de usuários  | Clientes  |
+|Cadastros de Produto|	Avaliar aceitação do aplicativo entre os responsaveis  |	 Medir a aceitação do aplicativo atráves da quantidade de novos produtos  | Percentual de novos produtos  | Tabela de cadastro de estoque  | Clientes  |
+|Percentual de Reclamações|	Avaliar quantidades de avaliações negativas da aplicação|	 Calcular a quantidade de avaliações negativas para o aplicativo por usuários  | Percentual de feedbacks negativos pelo total  | Dados da play store  | Processos Internos  |
+|Índice de avalição dos usuários|	Verificar a aceitação do aplicativo móvel |	 Número de estrelas | Medir a média das avaliações | Play Store e Apple Store | Qualidade do produto  |
+|Taxa de download do aplicativo|	Verificar a quantidade de downloads do aplicativo|	 Avaliar a quantidade de pessoas que baixaram e utilizaram | Número de downloads | Play Store e Apple Store  | Processos Internos  |
+|Número de acessos ao site|Verificar a quantidade de pessoas que acessam a versão Web|	 Avaliar a quantidade de acessos | Acessos únicos | Web Analytics  | Processos Internos  |
 
-![Indicadores de Desempenho](img/02-indic-desemp.png)
+
 Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
 
 ## Requisitos
