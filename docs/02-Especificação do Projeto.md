@@ -91,7 +91,7 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |RF-004| O site deve permitir o gerenciamento de produtos do almoxarifado  | ALTA |
 |RF-005| O site deve permitir que os usuários tenham uma área de grenciamento de dados pessoais |MÉDIA |
 |RF-006| O site deve permitir a geração de relatórios | BAIXA | 
-|RF-007| O site deve permitir o gerencimaento de fornecedores | BAIXA | 
+|RF-007| O site deve permitir o gerenciamento de fornecedores | BAIXA | 
 
 
 ### Requisitos não Funcionais
