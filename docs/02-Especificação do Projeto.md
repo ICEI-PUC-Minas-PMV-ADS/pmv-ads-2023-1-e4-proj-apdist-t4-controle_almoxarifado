@@ -54,7 +54,7 @@ Atualmente o processos funcionam assim, sem realizar nenhuma análise crítica e
 
 ### Processo 2 – MODELAGEM TO BE 
 
-Neste exemplo representa um processo mapeado sob a perspectiva da automação, em que o processo será executado e controlado através de um BPMS. O envio do email para o solicitante é enviado automaticamente pelo sistema.
+Este exemplo representa um processo mapeado sob a perspectiva da automação, em que o processo será executado e controlado através de um BPMS. O envio do email para o solicitante é enviado automaticamente pelo sistema.
 
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/Modelagem%20do%20Processo%20de%20Neg%C3%B3cio%2002.png)
 
