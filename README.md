@@ -12,11 +12,11 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Naiara Julieta Maria Carvalho Mafra
-* Luiz Felipe Vitor
 * Hugo Kioshi Ito
+* Luiz Felipe Vitor
 * Samuel Leite Fonseca
 * Thiago Álvaro Barbosa Fraga
+* Naiara Julieta Maria Carvalho Mafra
 
 ## Orientador
 
