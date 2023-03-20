@@ -46,17 +46,17 @@ Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o 
 
 Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
 
-### Processo 1 – NOME DO PROCESSO
+### Processo 1 – MODELAGEM AS IS
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+Atualmente o processos funcionam assim, sem realizar nenhuma análise crítica e sem discutir se o processo está bom ou ruim. 
 
-![Processo 1](img/02-bpmn-proc1.png)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/Modelagem%20do%20Processo%20de%20Neg%C3%B3cio%2001.jpeg)
 
-### Processo 2 – NOME DO PROCESSO
+### Processo 2 – MODELAGEM TO BE 
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
+Neste exemplo de processo com implantação manual, alguns exemplos de “meios” como planilhas e formulários representados junto ao processo. Tanto o formulário TR3 quanto o TR3.1 são formulários que transitam entre tarefas (sai de uma e vai para a outra), embora esteja associado implicitamente através do que chamamos “visual shortcut”. A planilha de controle de estoque é consultada e eventualmente atualizada durante a tarefa “Verificar estoque”. Nesta perspectiva, o email que comunica o solicitante sobre a falta de itens seria produzido na tarefa “Verificar estoque”, e provavelmente documentado como um dos procedimentos a serem realizados durante esta tarefa no caso de faltarem itens.
 
-![Processo 2](img/02-bpmn-proc2.png)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/Modelagem%20do%20Processo%20de%20Neg%C3%B3cio%2002.png)
 
 ## Indicadores de Desempenho
 
