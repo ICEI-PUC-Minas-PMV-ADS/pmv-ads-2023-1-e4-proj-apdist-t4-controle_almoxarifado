@@ -40,11 +40,11 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Atualmente uma empresa quando deseja fazer um controle de estoque ela considera recorrer a uma planilha no Excel ou fazer busca na internet aonde é possível encontrar diversos tipos de planilhas, mas na maioria das vezes acaba se fustando por não entrar uma planilha do seu nincho 100% editavel de acordo suas demandas. Pensando nisso desenvolvemos este projeto para que as empresas obtenham o controle em tempo real das entradas e saídas do seu estoque. 
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+É uma aplicação especializada no controle de estoque, o projeto foi desenvolvido, onde o objetivo é o próprio usuário conseguir visualizar com mais clareza o estoque de sua empresa. Podendo obter relatorios, verificar entradas e saídas e etc. 
 
 ### Processo 1 – MODELAGEM AS IS
 
@@ -54,7 +54,7 @@ Atualmente o processos funcionam assim, sem realizar nenhuma análise crítica e
 
 ### Processo 2 – MODELAGEM TO BE 
 
-Neste exemplo de processo com implantação manual, alguns exemplos de “meios” como planilhas e formulários representados junto ao processo. Tanto o formulário TR3 quanto o TR3.1 são formulários que transitam entre tarefas (sai de uma e vai para a outra), embora esteja associado implicitamente através do que chamamos “visual shortcut”. A planilha de controle de estoque é consultada e eventualmente atualizada durante a tarefa “Verificar estoque”. Nesta perspectiva, o email que comunica o solicitante sobre a falta de itens seria produzido na tarefa “Verificar estoque”, e provavelmente documentado como um dos procedimentos a serem realizados durante esta tarefa no caso de faltarem itens.
+Neste exemplo representa um processo mapeado sob a perspectiva da automação, em que o processo será executado e controlado através de um BPMS. O envio do email para o solicitante é enviado automaticamente pelo sistema.
 
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/Modelagem%20do%20Processo%20de%20Neg%C3%B3cio%2002.png)
 
