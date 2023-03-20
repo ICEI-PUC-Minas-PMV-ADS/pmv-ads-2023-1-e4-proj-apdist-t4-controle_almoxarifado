@@ -1,4 +1,6 @@
-# TÍTULO DO PROJETO
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/LOGOTIPO.png)
+
+# Alfa Control
 
 `Análise e Desenvolvimento de Sistemas`
 
