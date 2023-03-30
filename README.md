@@ -1,4 +1,4 @@
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/LOGOTIPO.png)
+<p align="center"><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/LOGOTIPO.png" width='300px' height='250px'/></p>
 
 # Alfa Control
 
