@@ -84,13 +84,13 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O site deve permitir que os usuários se cadastrem na plataforma | ALTA | 
-|RF-002| O site deve permitir que os usuários façam login/ logout  | ALTA |
-|RF-003| O site deve possuir filtros para parametrizar a busca |MÉDIA |
-|RF-004| O site deve permitir o gerenciamento de produtos do almoxarifado  | ALTA |
-|RF-005| O site deve permitir que os usuários tenham uma área de grenciamento de dados pessoais |MÉDIA |
-|RF-006| O site deve permitir a geração de relatórios | BAIXA | 
-|RF-007| O site deve permitir o gerenciamento de fornecedores | BAIXA | 
+|RF-001| A aplicação deve permitir que os usuários se cadastrem na plataforma | ALTA | 
+|RF-002| A aplicação  deve permitir que os usuários façam login/ logout  | ALTA |
+|RF-003| A aplicação deve possuir filtros para parametrizar a busca |MÉDIA |
+|RF-004| O app deve permitir o gerenciamento de produtos do almoxarifado  | ALTA |
+|RF-005| O webaplicativo deve permitir que os usuários tenham uma área de grenciamento de dados pessoais |MÉDIA |
+|RF-006| A acplicação deve permitir a geração de relatórios | BAIXA | 
+|RF-007| A aplicação deve permitir o gerenciamento de fornecedores | BAIXA | 
 
 
 ### Requisitos não Funcionais
