@@ -141,7 +141,7 @@ O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utiliz
 
 A partir da utilização da ferramenta acima, o projeto terá início em fevereiro, sendo finalizado em junho de 2023. O trabalho foi dividido em cinco etapas, sendo a primeira responsável epla definição do escopo do projeto, levantamento de requisitos e definição do plano de trabalho. Para a segunda, a implementação da API em C#, e as duas etapas seguintes a contrução das interfaces web e mobile, além da testagem dos sistemas junto à API. Na última etapa, pretende se realizar a entrega final do projeto, correções, documentação e discussão de possíveis melhorias. 
 
-![Gráfico de Gantt](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/Gantt%20chart%20(1).png)
+![Gráfico de Gantt]([https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/Gantt%20chart%20(1).png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/Project%20Alfa%20Control.PNG))
 
 ## Gerenciamento de Equipe
 
