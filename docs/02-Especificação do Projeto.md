@@ -100,9 +100,9 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku) | ALTA | 
-|RNF-002| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada | BAIXA |
-|RNF-003| O site deve ter um design simples e autoexplicativo, com bom nível de contraste entre os elementos da tela em conformidade | BAIXA | 
+|RNF-001| A aplicação deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku) | ALTA | 
+|RNF-002| A aplicação deverá ser responsivo permitindo a visualização em um celular de forma adequada | BAIXA |
+|RNF-003| A aplicação deve ter um design simples e autoexplicativo, com bom nível de contraste entre os elementos da tela em conformidade | BAIXA | 
 |RNF-004| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge, Safari) | MÉDIA |
 |RNF-005| O site deve estar acessível 24/7 | MÉDIA | 
 |RNF-006| O site deve testar a segurança e veracidade do usuário |  ALTA | 
