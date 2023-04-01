@@ -85,12 +85,13 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| A aplicação deve permitir que os usuários se cadastrem na plataforma | ALTA | 
-|RF-002| A aplicação  deve permitir que os usuários façam login/ logout  | ALTA |
-|RF-003| A aplicação deve possuir filtros para parametrizar a busca |MÉDIA |
-|RF-004| O app deve permitir o gerenciamento de produtos do almoxarifado  | ALTA |
+|RF-002| A aplicação  deve permitir que os usuários façam login/logout  | ALTA |
+|RF-003| A aplicação deve permitir que o usuário faça consultas |MÉDIA |
+|RF-004| O app deve permitir o gerenciamento de produtos do almoxarifado | ALTA |
 |RF-005| O webaplicativo deve permitir que os usuários tenham uma área de grenciamento de dados pessoais |MÉDIA |
-|RF-006| A aplicação deve permitir a geração de relatórios gerenciais | BAIXA | 
-|RF-007| A aplicação deve permitir o gerenciamento de fornecedores | BAIXA | 
+|RF-006|  | BAIXA | 
+|RF-007| A aplicação deve permitir que o admnistrador consulte e gere relatórios gerenciais | BAIXA | 
+|RF-008| A aplicação deve permitir o gerenciamento de fornecedores | BAIXA | 
 
 
 ### Requisitos não Funcionais
@@ -113,7 +114,7 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01|O projeto deverá ser entregue no final do semestre letivo.|
+|01| O projeto deverá ser entregue no final do semestre letivo.|
 |02| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend.|
 |03| A equipe não pode subcontratar o desenvolvimento do trabalho.|
 |04| O projeto não deve ser feito por um único indivíduo.|
