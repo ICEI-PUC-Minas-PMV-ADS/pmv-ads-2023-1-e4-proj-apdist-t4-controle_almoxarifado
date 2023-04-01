@@ -88,7 +88,7 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |RF-002| A aplicação  deve permitir que os usuários façam login/logout  | ALTA |
 |RF-003| A aplicação deve permitir que o usuário faça consultas |MÉDIA |
 |RF-004| O app deve permitir o gerenciamento de produtos do almoxarifado | ALTA |
-|RF-005| O webaplicativo deve permitir que os usuários tenham uma área de grenciamento de dados pessoais |MÉDIA |
+|RF-005| O webaplicativo deve permitir que os usuários tenham uma área de gerenciamento de dados pessoais |MÉDIA |
 |RF-006|  | BAIXA | 
 |RF-007| A aplicação deve permitir que o admnistrador consulte e gere relatórios gerenciais | BAIXA | 
 |RF-008| A aplicação deve permitir o gerenciamento de fornecedores | BAIXA | 
