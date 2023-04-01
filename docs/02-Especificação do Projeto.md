@@ -89,7 +89,7 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |RF-003| A aplicação deve possuir filtros para parametrizar a busca |MÉDIA |
 |RF-004| O app deve permitir o gerenciamento de produtos do almoxarifado  | ALTA |
 |RF-005| O webaplicativo deve permitir que os usuários tenham uma área de grenciamento de dados pessoais |MÉDIA |
-|RF-006| A acplicação deve permitir a geração de relatórios | BAIXA | 
+|RF-006| A aplicação deve permitir a geração de relatórios gerenciais | BAIXA | 
 |RF-007| A aplicação deve permitir o gerenciamento de fornecedores | BAIXA | 
 
 
