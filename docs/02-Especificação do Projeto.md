@@ -123,13 +123,13 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 
 ## Diagrama de Casos de Uso
 
-<img height=500, width=600 src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/Controle-alfa.png />
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/Controle-alfa.png)
 
 # Matriz de Rastreabilidade
 
 A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
 
-![[Matriz](/img/MatrizdeRastreabilidade.png)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/MatrizdeRastreabilidade.png)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/02-matriz-rastreabilidade.png)
 
 # Gerenciamento de Projeto
 
@@ -147,10 +147,10 @@ A partir da utilização da ferramenta acima, o projeto terá início em feverei
 
 O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
 
-![Simple Project Timeline](img/02-project-timeline.png)
+![Simple Project Timeline](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/Gerenciamento%20de%20Equipe.png)
 
 ## Gestão de Orçamento
 
 Para o projeto em destaque foi orçado com base nos gastos com pessoal e estrutura (serviços, equipamentos e licenças) para pleno funcionamento das atividades, além do item outros serviços que tem por objetivo cobrir urgências e compromissos não previstos inicialmente.
 
-![[Orçamento](/img/ORCAMENTO.png)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/ORCAMENTO.png)
+![Orçamento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/Gerenciamento%20de%20Custo.png)
