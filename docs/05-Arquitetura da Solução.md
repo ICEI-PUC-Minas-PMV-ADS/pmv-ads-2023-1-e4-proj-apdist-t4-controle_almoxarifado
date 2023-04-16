@@ -46,16 +46,54 @@ O Serviço de Aplicativo do Azure fornece um serviço de hospedagem na Web altam
 
 
 ## Qualidade de Software
+Qualidade de Software seguira normas segundo Pressman que são relacionadas a
+Funcionalidade, Confiabilidade,Usabilidade, Eficiência, Manutenibilidade e Portabilidade.
 
-Conceituar qualidade de fato é uma tarefa complexa, mas ela pode ser vista como um método gerencial que através de procedimentos disseminados por toda a organização, busca garantir um produto final que satisfaça às expectativas dos stakeholders.
+### Funcionalidade: um conjunto de atributos que satisfazem necessidades implícitas e explícitas.
+Os subconjuntos de requisitos de qualidade funcionais são:
+- adequabilidade;
+- exatidão;
+- interoperabilidade;
+- conformidade;
+- segurança.
 
-No contexto de desenvolvimento de software, qualidade pode ser entendida como um conjunto de características a serem satisfeitas, de modo que o produto de software atenda às necessidades de seus usuários. Entretanto, tal nível de satisfação nem sempre é alcançado de forma espontânea, devendo ser continuamente construído. Assim, a qualidade do produto depende fortemente do seu respectivo processo de desenvolvimento.
 
-A norma internacional ISO/IEC 25010, que é uma atualização da ISO/IEC 9126, define oito características e 30 subcaracterísticas de qualidade para produtos de software.
-Com base nessas características e nas respectivas sub-características, identifique as sub-características que sua equipe utilizará como base para nortear o desenvolvimento do projeto de software considerando-se alguns aspectos simples de qualidade. Justifique as subcaracterísticas escolhidas pelo time e elenque as métricas que permitirão a equipe avaliar os objetos de interesse.
+### Confiabilidade: um conjunto de atributos relacionados à capacidade do
+software de manter seu nível de desempenho, conforme as condições estabelecidas
+por um período de tempo estabelecido.
+Subconjuntos de requisitos de qualidade de confiabilidade são:
+- maturidade;
+- tolerância a falhas;
+- capacidade de recuperação.
 
-> **Links Úteis**:
->
-> - [ISO/IEC 25010:2011 - Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — System and software quality models](https://www.iso.org/standard/35733.html/)
-> - [Análise sobre a ISO 9126 – NBR 13596](https://www.tiespecialistas.com.br/analise-sobre-iso-9126-nbr-13596/)
-> - [Qualidade de Software - Engenharia de Software 29](https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209/)
+
+### Usabilidade: um conjunto de atributos relacionados ao esforço para usar o
+software ou na avaliação individual de tal uso, por um ou mais usuários.
+Subconjuntos de requisitos de qualidade de usabilidade são:
+- facilidade de entendimento;
+- facilidade de aprendizagem;
+- facilidade de operação.
+
+
+### Eficiência: um conjunto de atributos que dizem respeito à relação entre o
+nível de desempenho do software e à quantidade de recursos usada, sob condições
+estabelecidas.
+Subconjuntos de requisitos de qualidade de eficiência são:
+- comportamento do tempo;
+- comportamento de recursos.
+
+### Facilidade de manutenção: um conjunto de atributos relacionados ao
+esforço necessário para realizar modificações específicas.
+Subconjuntos de requisitos de qualidade de facilidade de manutenção são:
+- facilidade de análise;
+- facilidade de mudança;
+- estabilidade;
+- facilidade de teste.
+
+### Portabilidade: um conjunto de atributos de software relacionados à
+habilidade do software ser transferido de um ambiente para outro.
+Subconjuntos de requisitos de qualidade de portabilidade são:
+- capacidade de adaptação;
+- facilidade de instalação;
+- nível de conformidade;
+- facilidade de substituição
