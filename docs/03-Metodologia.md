@@ -45,13 +45,33 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
-
 Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Felipe Domingos;
-- Product Owner: Rommel Carneiro;
-- Equipe de Desenvolvimento: Pedro Penna, Pedro Ivo, Rodrigo Richard;
-- Equipe de Design: Simone Nogueira.
+
+- Hugo Kioshi - Desenvolvedor
+
+- Luiz Felipe – Desenvolvedor  
+
+- Naiara Mafra – Design e Desenvolvedor 
+
+- Samuel Fonseca - Product Owner e Desenvolvedor 
+
+- Thiago Fraga - Scrum Master e Desenvolvedor
+
+
+Para organização e distribuição de tarefas do projeto, utilizaremos o Trello estruturado da seguinte forma: 
+
+- `Backlog`: Nessa parte fica todas as tarefas que vão ser desenvolvidas no projeto. Caso apareça alguma nova e direcionada nessa parte. 
+
+- `A Fazer (Sprint Backlog)`: E a sprint atual que estamos trabalhando. 
+
+- `Em Andamento`: Quando a tarefas foi iniciada. 
+
+- `Concluido`: Quando a tarefa for finalizada.
+
+
+O quadro kanban do grupo no Trello disponível em: XXXXXX, na imagem abaixo mostra como ele está.
+
+![]()
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
@@ -60,7 +80,25 @@ Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum 
 
 ### Processo
 
-Coloque informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+Para a gerenciar os processos e asssegurar o cumprimento e responsabilidades das entregas do projeto, nossa está fazendo uso do TRELLO, com estrutura simples, flexível e poderosa para o desenvolvimento com os seguintes status:
+
+- **Documentation:** sequência das tarefas referentes à documentação de contexto que serão trabalhadas pela equipe, conforme cronograma do curso de Análise Desenvolvimento de Sistemas da Pontifícia Universidade Católica de Minas Gerais (PUC Minas).
+
+- **Useful Links:** Nesse cartão tem os links dos templetes de consulta para auxilio do processo do projeto.
+
+- **Backlog:** Nessa coluna, encontra-se todas as pendências das etapas da entrega a ser processadas. 
+
+- **To Do:** Nessa coluna, estão alocadas as tarefas estabelecidas para a Sprint atual e que ainda não foram iniciadas, assim como os membros da equipe responsáveis por cada item.
+
+- **In Progress:** Tarefas que já foram iniciadas mas ainda não finalizadas, são acompanhadas rotineiramente seguindo os ritos da metodologia ágil.
+
+- **Test Phase:** Tarefas iniciadas e finalizadas. Etapa de extrema importância no processo de desenvolvimento de software, visam validar se a aplicação está funcionando corretamente e se atende aos requisitos especificados.
+
+- **Concluded:** Tarefas concluídas e aprovadas no teste de qualidade.
+
+O quadro kanban de processos encontra-se no Trello disponível em: XXXXXXXXX, a seguir temos a imagem para visualização:
+
+![]()
  
 > **Links Úteis**:
 > - [Planejamento e Gestáo Ágil de Projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)
@@ -72,16 +110,20 @@ Coloque informações sobre detalhes da implementação do Scrum seguido pelo gr
 
 ### Ferramentas
 
-As ferramentas empregadas no projeto são:
+A seguir temos as ferramentas empregadas no projeto: 
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+- **Editor de Código:** O editor de código escolhido foi o _Visual Studio_ pela integração com outras ferramentas utilizadas no projeto como _GitHub_ e o _SQL Server_.
+- **Ferramentas de comunicação:** A ferramenta de comunicação escolhida foi o _Microsoft Teams_ devido à facilidade de comunicação, reuniões em vídeo, compartilhamento de arquivos.
+- **Ferramentas de desenho de tela (wireframing):** A ferramenta escolhida para a elaboração dos wireframes foi o _Figma_. A escolha se deu dado a sua capacidade de geração de wireframes interativos detalhados.
+- **Ferramentas de elaboração de diagramas:** Para a elaboração dos diversos diagramas do projeto (diagramas de fluxo, diagramas de classes, modelo ER e esquema relacional), a ferramenta _Lucidchart_ foi escolhida visando praticidade e versatilidade,permitindo  aos usuários colaborar visualmente no desenho, revisão e compartilhamento de gráficos e diagramas e melhorar processos, sistemas e estruturas organizacionais na elaboração de diagramas de diversos tipos.
+- **Ferramentas de controle de versão:** A ferramenta de controle de versão escolhida foi o _Git_, cuja utilização se deu através da integração com o editor de código _Visual Studio_, para a hospedagem do repositório será utilizado o _GitHub_. Essa escolha foi feita devido à robustez dessas ferramentas e a familiaridade dos membros da equipe com as elas.
+- **Ferramenta de gerenciamento de projeto:** A ferramenta _Github_ foi escolhida para a organização e distribuição das tarefas seguindo o modelo Scrum, conforme descrito na subseção “Processo”. A ferramenta foi escolhida dada sua facilidade de uso e sua compatibilidade com a metodologia Scrum, com diversos materiais disponíveis sobre sua integração com esta.
 
-O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
 > **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
+> - [Visual studio](https://visualstudio.microsoft.com/)
+> - [Teams](https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software)
+> - [Figma](https://www.figma.com/)
+> - [Lucidchart](https://www.lucidchart.com/)
+> - [Git](https://git-scm.com/)
 > - [Github](https://github.com/)
