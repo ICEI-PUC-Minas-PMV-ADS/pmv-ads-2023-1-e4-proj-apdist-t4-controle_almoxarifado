@@ -23,14 +23,6 @@ O projeto segue a seguinte convenção para o nome de branches:
 - `testing`: versão em testes do software
 - `dev`: versão de desenvolvimento do software
 
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
-
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
-
 Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
 
 > **Links Úteis**:
@@ -84,7 +76,7 @@ O quadro de do grupo, no estilo "kanban", visa o acompanhamento nativo do GitHub
 
 ### Processo
 
-Para a gerenciar os processos e asssegurar o cumprimento e responsabilidades das entregas do projeto, nossa está fazendo uso do GitHub projects, com estrutura simples, flexível para o desenvolvimento de status:
+Para a gerenciar as issues e asssegurar o cumprimento e responsabilidades das entregas do projeto, nossa está fazendo uso do GitHub projects, com estrutura simples, flexível para o desenvolvimento de status:
 
 - **Documentação:** Nessa "etiqueta", há indicativo de melhorias, acréscimos nas documentações de contexto para subsequência do projeto.
 
