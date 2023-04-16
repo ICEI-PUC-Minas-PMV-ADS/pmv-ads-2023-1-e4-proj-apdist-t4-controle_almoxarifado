@@ -69,7 +69,7 @@ Para organização e distribuição de tarefas do projeto, utilizaremos o Projec
 - `Done`: Quando a tarefa for finalizada.
 
 
-O quadro de do grupo, no estilo "kanban", visa o acompanhamento dentro do próprio GitHub, na visão de Projects, disponível em: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/244/views/1?layout=board, na imagem abaixo mostra como ele está.
+O quadro de do grupo, no estilo "kanban", visa o acompanhamento dentro do próprio GitHub, na visão de Projects, disponível em: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/391, na imagem abaixo mostra como ele está no momento desta etapa.
 
 ![]()
 
@@ -82,19 +82,19 @@ O quadro de do grupo, no estilo "kanban", visa o acompanhamento dentro do própr
 
 Para a gerenciar os processos e asssegurar o cumprimento e responsabilidades das entregas do projeto, nossa está fazendo uso do GitHub projects, com estrutura simples, flexível para o desenvolvimento de status:
 
-- **Documentação:** Essa "label" conterá indicativo de melhorias, acréscimos nas documentações de contexto para subsequência do projeto.
+- **Documentação:** Nessa "etiqueta", há indicativo de melhorias, acréscimos nas documentações de contexto para subsequência do projeto.
 
-- **Questionamento:** Essa "label" solicita mais informações, podendo ser adicionar, links e informações para auxilio.
+- **Questionamento:** Nessa "etiqueta", há necessidade de informações, podendo ser adicionar, links e informações para auxilio.
 
-- **Procura-se ajuda:** Nessa "label", solicita-se ajuda para item de atenção extra. 
+- **Procura-se ajuda:** Nessa "etiqueta", solicita-se ajuda para item de atenção extra. 
 
-- **Bug:** Nessa "label", há indicativos de bug e/ou problemas na aplicação.
+- **Bug:** Nessa "etiqueta", há indicativos de bug e/ou problemas na aplicação.
 
-- **Fase de teste:** Tarefas iniciadas e finalizadas. Etapa de extrema importância no processo de desenvolvimento de software, visam validar se a aplicação está funcionando corretamente e se atende aos requisitos especificados.
+- **Fase de teste:** Nessta "etiqueta", as tarefas iniciadas e finalizadas no processo de desenvolvimento de software, visam a validação de correto funcionamento de acordo com os requisitos especificados.
 
-- **Concluído:** Tarefas concluídas e aprovadas no teste de qualidade.
+- **Concluído:** Nessa "etiqueta" Tarefas concluídas e aprovadas no teste de qualidade.
 
-O quadro do tipo "kanban" de processos encontra-se no GitHub projects, disponível em: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/244/views/1?layout=board, a seguir temos a imagem para visualização:
+O quadro do tipo, "kanban" de processos, encontra-se no GitHub projects, disponível em: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/391, a seguir, temos a imagem para visualização:
 
 ![]()
  
