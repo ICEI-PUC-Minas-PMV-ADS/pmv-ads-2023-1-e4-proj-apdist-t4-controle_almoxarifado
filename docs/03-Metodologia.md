@@ -58,18 +58,18 @@ Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum 
 - Thiago Fraga - Scrum Master e Desenvolvedor
 
 
-Para organização e distribuição de tarefas do projeto, utilizaremos o Trello estruturado da seguinte forma: 
+Para organização e distribuição de tarefas do projeto, utilizaremos o Project do GitHub estruturado da seguinte forma: 
 
-- `Backlog`: Nessa parte fica todas as tarefas que vão ser desenvolvidas no projeto. Caso apareça alguma nova e direcionada nessa parte. 
+- `Backlog`: Nessa parte fica todas as tarefas que vão ser desenvolvidas no projeto. Novas tarefas serão direcionada nessa parte. 
 
-- `A Fazer (Sprint Backlog)`: E a sprint atual que estamos trabalhando. 
+- `To do` (Sprint Backlog)`: São as tarefas da sprint que temos a realizar. 
 
-- `Em Andamento`: Quando a tarefas foi iniciada. 
+- `In Progress`: Quando a tarefas foi iniciada, estando em trabalho. 
 
-- `Concluido`: Quando a tarefa for finalizada.
+- `Done`: Quando a tarefa for finalizada.
 
 
-O quadro kanban do grupo no Trello disponível em: XXXXXX, na imagem abaixo mostra como ele está.
+O quadro de do grupo, no estilo "kanban", visa o acompanhamento dentro do próprio GitHub, na visão de Projects, disponível em: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/244/views/1?layout=board, na imagem abaixo mostra como ele está.
 
 ![]()
 
@@ -80,23 +80,21 @@ O quadro kanban do grupo no Trello disponível em: XXXXXX, na imagem abaixo most
 
 ### Processo
 
-Para a gerenciar os processos e asssegurar o cumprimento e responsabilidades das entregas do projeto, nossa está fazendo uso do TRELLO, com estrutura simples, flexível e poderosa para o desenvolvimento com os seguintes status:
+Para a gerenciar os processos e asssegurar o cumprimento e responsabilidades das entregas do projeto, nossa está fazendo uso do GitHub projects, com estrutura simples, flexível para o desenvolvimento de status:
 
-- **Documentation:** sequência das tarefas referentes à documentação de contexto que serão trabalhadas pela equipe, conforme cronograma do curso de Análise Desenvolvimento de Sistemas da Pontifícia Universidade Católica de Minas Gerais (PUC Minas).
+- **Documentação:** Essa "label" conterá indicativo de melhorias, acréscimos nas documentações de contexto para subsequência do projeto.
 
-- **Useful Links:** Nesse cartão tem os links dos templetes de consulta para auxilio do processo do projeto.
+- **Questionamento:** Essa "label" solicita mais informações, podendo ser adicionar, links e informações para auxilio.
 
-- **Backlog:** Nessa coluna, encontra-se todas as pendências das etapas da entrega a ser processadas. 
+- **Procura-se ajuda:** Nessa "label", solicita-se ajuda para item de atenção extra. 
 
-- **To Do:** Nessa coluna, estão alocadas as tarefas estabelecidas para a Sprint atual e que ainda não foram iniciadas, assim como os membros da equipe responsáveis por cada item.
+- **Bug:** Nessa "label", há indicativos de bug e/ou problemas na aplicação.
 
-- **In Progress:** Tarefas que já foram iniciadas mas ainda não finalizadas, são acompanhadas rotineiramente seguindo os ritos da metodologia ágil.
+- **Fase de teste:** Tarefas iniciadas e finalizadas. Etapa de extrema importância no processo de desenvolvimento de software, visam validar se a aplicação está funcionando corretamente e se atende aos requisitos especificados.
 
-- **Test Phase:** Tarefas iniciadas e finalizadas. Etapa de extrema importância no processo de desenvolvimento de software, visam validar se a aplicação está funcionando corretamente e se atende aos requisitos especificados.
+- **Concluído:** Tarefas concluídas e aprovadas no teste de qualidade.
 
-- **Concluded:** Tarefas concluídas e aprovadas no teste de qualidade.
-
-O quadro kanban de processos encontra-se no Trello disponível em: XXXXXXXXX, a seguir temos a imagem para visualização:
+O quadro do tipo "kanban" de processos encontra-se no GitHub projects, disponível em: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/244/views/1?layout=board, a seguir temos a imagem para visualização:
 
 ![]()
  
