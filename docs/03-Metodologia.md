@@ -3,7 +3,6 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
 
 ### Relação de Ambientes de Trabalho
 
@@ -31,13 +30,11 @@ O projeto segue a seguinte convenção para o nome de branches:
 - `testing`: versão em testes do software
 - `dev`: versão de desenvolvimento do software
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
 
 > **Links Úteis**:
-> - [Microfundamento: Gerência de Configuração](https://pucminas.instructure.com/courses/87878/)
 > - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
 > - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
+> - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
 > - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 > - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
 
@@ -46,7 +43,7 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe, está organizada da seguinte maneira:
 
 - Hugo Kioshi - Desenvolvedor
 
@@ -59,7 +56,7 @@ Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum 
 - Thiago Fraga - Scrum Master e Desenvolvedor
 
 
-Para organização e distribuição de tarefas do projeto, utilizaremos o Project do GitHub estruturado da seguinte forma: 
+Para organização e distribuição de tarefas do projeto, utilizaremos o Project do GitHub, estruturado da seguinte forma: 
 
 - `Backlog`: Nessa parte fica todas as tarefas que vão ser desenvolvidas no projeto. Novas tarefas serão direcionada nessa parte. 
 
@@ -71,7 +68,8 @@ Para organização e distribuição de tarefas do projeto, utilizaremos o Projec
 
 
 
-O quadro de do grupo, no estilo "kanban", visa o acompanhamento nativo do GitHub, na visão de Projects, disponível em: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/391, na imagem abaixo mostra como ele está no momento desta etapa.
+O quadro de do grupo, no estilo "kanban", visa o acompanhamento nativo do GitHub, na visão de Projects, disponível em: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/391.
+A imagem abaixo, mostra o estado no momento da etapa vigente.
 
 ![Quadro Kanban](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/Quadro%20Kanban%20project.png)
 
