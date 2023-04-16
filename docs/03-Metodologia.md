@@ -7,8 +7,16 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
 
 ### Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito, deverá ser apresentada em uma tabela que especifica e detalha os Ambientes, Plataforma e Link de Acesso.
+
+|AMBIENTE	|PLATAFORMA	|LINK DE ACESSO|
+|-----|---|---|
+|Repositório de Código |	Visual basic| XXXXXXXXXXXXXXXXXXXXXXXXX
+|Documentos de Projeto	|GitHub|	https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/tree/main/docs
+|Projeto de interface e wireframes|	Figma	| XXXXXXXXXXXXXXXXXXXXXX
+|Gerenciamento do projeto|	GitHub	| https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/391
+|Elaboração de Diagramas|	Licidchart	|https://lucid.app/lucidchart/5e1091fb-c8fd-4f41-9594-713de150ad1b/edit?viewport_loc=-543%2C-133%2C2996%2C1588%2C0_0&invitationId=inv_fc952a3a-698d-407c-80a3-6e8dc8c1af2a
+
 
 ### Controle de Versão
 
