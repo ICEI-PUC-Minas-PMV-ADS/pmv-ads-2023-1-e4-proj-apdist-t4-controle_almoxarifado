@@ -49,7 +49,8 @@ O Serviço de Aplicativo do Azure fornece um serviço de hospedagem na Web altam
 Qualidade de Software seguira normas segundo Pressman que são relacionadas a
 Funcionalidade, Confiabilidade,Usabilidade, Eficiência, Manutenibilidade e Portabilidade.
 
-### Funcionalidade: um conjunto de atributos que satisfazem necessidades implícitas e explícitas.
+### Funcionalidade:
+Um conjunto de atributos que satisfazem necessidades implícitas e explícitas.
 Os subconjuntos de requisitos de qualidade funcionais são:
 - adequabilidade;
 - exatidão;
@@ -58,7 +59,8 @@ Os subconjuntos de requisitos de qualidade funcionais são:
 - segurança.
 
 
-### Confiabilidade: um conjunto de atributos relacionados à capacidade do
+### Confiabilidade:
+Um conjunto de atributos relacionados à capacidade do
 software de manter seu nível de desempenho, conforme as condições estabelecidas
 por um período de tempo estabelecido.
 Subconjuntos de requisitos de qualidade de confiabilidade são:
@@ -67,7 +69,8 @@ Subconjuntos de requisitos de qualidade de confiabilidade são:
 - capacidade de recuperação.
 
 
-### Usabilidade: um conjunto de atributos relacionados ao esforço para usar o
+### Usabilidade:
+Um conjunto de atributos relacionados ao esforço para usar o
 software ou na avaliação individual de tal uso, por um ou mais usuários.
 Subconjuntos de requisitos de qualidade de usabilidade são:
 - facilidade de entendimento;
@@ -75,14 +78,16 @@ Subconjuntos de requisitos de qualidade de usabilidade são:
 - facilidade de operação.
 
 
-### Eficiência: um conjunto de atributos que dizem respeito à relação entre o
+### Eficiência:
+Um conjunto de atributos que dizem respeito à relação entre o
 nível de desempenho do software e à quantidade de recursos usada, sob condições
 estabelecidas.
 Subconjuntos de requisitos de qualidade de eficiência são:
 - comportamento do tempo;
 - comportamento de recursos.
 
-### Facilidade de manutenção: um conjunto de atributos relacionados ao
+### Facilidade de manutenção:
+Um conjunto de atributos relacionados ao
 esforço necessário para realizar modificações específicas.
 Subconjuntos de requisitos de qualidade de facilidade de manutenção são:
 - facilidade de análise;
@@ -90,7 +95,8 @@ Subconjuntos de requisitos de qualidade de facilidade de manutenção são:
 - estabilidade;
 - facilidade de teste.
 
-### Portabilidade: um conjunto de atributos de software relacionados à
+### Portabilidade:
+Um conjunto de atributos de software relacionados à
 habilidade do software ser transferido de um ambiente para outro.
 Subconjuntos de requisitos de qualidade de portabilidade são:
 - capacidade de adaptação;
