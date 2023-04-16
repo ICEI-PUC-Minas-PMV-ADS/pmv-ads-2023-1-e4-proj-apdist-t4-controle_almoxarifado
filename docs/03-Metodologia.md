@@ -69,9 +69,9 @@ Para organização e distribuição de tarefas do projeto, utilizaremos o Projec
 - `Done`: Quando a tarefa for finalizada.
 
 
-O quadro de do grupo, no estilo "kanban", visa o acompanhamento dentro do próprio GitHub, na visão de Projects, disponível em: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/391, na imagem abaixo mostra como ele está no momento desta etapa.
+O quadro de do grupo, no estilo "kanban", visa o acompanhamento nativo do GitHub, na visão de Projects, disponível em: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/391, na imagem abaixo mostra como ele está no momento desta etapa.
 
-![]()
+![Quadro Kanban](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/Quadro%20Kanban%20project.png)
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
