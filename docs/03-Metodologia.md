@@ -1,18 +1,17 @@
 
 # Metodologia
-
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+A metodologia contempla as definições de ferramental utilizado pela equipe tanto para a manutenção dos códigos e demais artefatos quanto para a organização do time na execução das tarefas do projeto.
 
 
 ### Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito, deverá ser apresentada em uma tabela que especifica e detalha os Ambientes, Plataforma e Link de Acesso.
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
 |AMBIENTE	|PLATAFORMA	|LINK DE ACESSO|
 |-----|---|---|
-|Repositório de Código |	Visual basic| XXXXXXXXXXXXXXXXXXXXXXXXX
+|Repositório de Código |	fonte	GitHub| https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado
 |Documentos de Projeto	|GitHub|	https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/tree/main/docs
-|Projeto de interface e wireframes|	Figma	| XXXXXXXXXXXXXXXXXXXXXX
+|Projeto de interface e wireframes|	Figma	| https://www.figma.com/file/rJoc8rkLaHeIIiyVSI0BJK/
 |Gerenciamento do projeto|	GitHub	| https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/391
 |Elaboração de Diagramas|	Licidchart	|https://lucid.app/lucidchart/5e1091fb-c8fd-4f41-9594-713de150ad1b/edit?viewport_loc=-543%2C-133%2C2996%2C1588%2C0_0&invitationId=inv_fc952a3a-698d-407c-80a3-6e8dc8c1af2a
 
@@ -40,7 +39,7 @@ O projeto segue a seguinte convenção para o nome de branches:
 
 
 ## Gerenciamento de Projeto
-
+O desenvolvimento deste projeto, seguirá o acompanhamento e desenvolvimento dos membros da equipe em cada etapa a ser entregue, buscando orientar as  pessoas e ajudar a resolver os problemas encontrados durante a execução das atividades. Levando assim, uma base de acompanhamento através da metodologia ágil, seguindo uma estrutura de papéis, conforme detalhado abaixo:
 ### Divisão de Papéis
 
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe, está organizada da seguinte maneira:
@@ -58,9 +57,9 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 
 Para organização e distribuição de tarefas do projeto, utilizaremos o Project do GitHub, estruturado da seguinte forma: 
 
-- `Backlog`: Nessa parte fica todas as tarefas que vão ser desenvolvidas no projeto. Novas tarefas serão direcionada nessa parte. 
+- `Backlog`: recebe as tarefas a serem trabalhadas conforme cronograma e os entregáveis. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
 
-- `To do` (Sprint Backlog)`: São as tarefas da sprint que temos a realizar. 
+- `To do` `(Sprint Backlog)`: São as tarefas da sprint que temos a realizar. 
 
 - `In Progress`: Quando a tarefas foi iniciada, estando em trabalho. 
 
