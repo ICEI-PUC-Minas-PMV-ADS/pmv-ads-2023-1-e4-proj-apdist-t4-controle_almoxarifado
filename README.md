@@ -1,5 +1,4 @@
-<p align="center"><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/LOGOTIPO.png" width='300px' height='250px'/></p>
-
+<img src="https://user-images.githubusercontent.com/61605610/232935303-f2d4bf35-f2ce-4e31-bee5-b4523148234d.png" width='200px' height='166,666px'/>
 # Alfa Control
 
 `Análise e Desenvolvimento de Sistemas`
