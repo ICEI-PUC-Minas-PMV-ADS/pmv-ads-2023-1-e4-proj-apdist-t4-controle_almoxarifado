@@ -24,8 +24,8 @@ Obs: Para a realização do teste o banco de dados foi "limpo".
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-008 - Gereciamento de Fornecedor |
 |**Objetivo do Teste** | Avaliar funcionalidade de criação de fornecedor. |
-|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/fornecedores e o método POST <br>3) Como elemnto JSON, preencher os atributos.<br>4) Clicar no botão Send. |
-|**Critérios de Êxito** | Será exibido no formato JSON o fornecedor criado, com os atributos preenchidos e o código 201 |
+|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/fornecedores/id e o método DELETE <br>3) Clicar no botão Send. |
+|**Critérios de Êxito** | Nada será exibido no formato de JSON; código 204 |
 
 |Caso de Teste | CT -1 Recuperação de Fornecedor |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
@@ -42,12 +42,43 @@ Obs: Para a realização do teste o banco de dados foi "limpo".
 |**Critérios de Êxito** | Será exibido no formato JSON com o fornecedor correspondente código 200 |
 
 
-|Caso de Teste |CT-002 – Criação de Item |
+|Caso de Teste |CT-002 – Criação de Produto |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-004 - Gereciamento de produtos |
 |**Objetivo do Teste** | Avaliar funcionalidade de criação de produto. |
-|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/ e o método POST <br>3) Como elemnto JSON, preencher os atributos e assossiar o ID do fornecedor já criado. <br>4) Clicar no botão Send. |
+|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/itens e o método POST <br>3) Como elemnto JSON, preencher os atributos e assossiar o ID do fornecedor já criado. <br>4) Clicar no botão Send. |
 |**Critérios de Êxito** | Será exibido no formato JSON o fornecedor criado, com os atributos preenchidos e o código 201 |
+
+|Caso de Teste | CT -2 Atualização de produto|
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-004 - Gereciamento de produto |
+|**Objetivo do Teste** | Avaliar funcionalidade de atualização de dados do produto. |
+|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/itens/id e o método PUT <br>3) Como elemnto JSON, alterar os atributos (exceto Id).<br>4) Clicar no botão Send. |
+|**Critérios de Êxito** | Será exibido no formato JSON o produtor criado, com os atributos alterados e o código 204 |
+
+|Caso de Teste | CT -1 Exclusão de produto |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-004 - Gereciamento de Produto |
+|**Objetivo do Teste** | Avaliar o funcionamento de exclusão de produto. |
+|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/itens/id e o método DELETE <br>3) Clicar no botão Send. |
+|**Critérios de Êxito** | Nada será exibido no formato de JSON; código 204  |
+
+|Caso de Teste | CT -1 Recuperação de Produto |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-004 - Gereciamento de Fornecedor |
+|**Objetivo do Teste** | Avaliar funcionalidade de recuperação de dados dos produtos criados (GETALL). |
+|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/itens e o método GET <br>3) Clicar no botão Send. |
+|**Critérios de Êxito** | Será exibido no formato JSON com todos os produtos criados o código 200 |
+
+|Caso de Teste | CT -1 Recuperação de Produto |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-004 - Gereciamento de Produto |
+|**Objetivo do Teste** | Avaliar recuperação de dados de um único produto de acordo com o ID (GETID). |
+|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/apiitens/id e o método GET <br>3) Clicar no botão Send. |
+|**Critérios de Êxito** | Será exibido no formato JSON com o produto correspondente código 200 |
+
+
+
 
 
 |Caso de Teste |CT-005 – Criação de Usuário |
