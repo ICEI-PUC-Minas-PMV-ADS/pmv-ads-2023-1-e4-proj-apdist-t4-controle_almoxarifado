@@ -1,10 +1,16 @@
-# Plano de Testes de Software
+# Plano de Testes de Software (API)
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
 
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
+|Caso de Teste |CT-001 – Login do usuário |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** | RF-001 - A aplicação deve apresentar, na página principal, a funcionalidade de login de usuário/profissional.|
+|**Entrada** | Na página inicial, digitar CPF e senha nos respectivos campos e clicar em Login. |
+|**Objetivo do Teste** | Validar acesso do usuário à plataforma através do login. |
+|**Passos** | 1) Acessar o Navegador. <br>2) Informar endereço: https://psiconnect20220609203034.azurewebsites.net/. <br>3) Preencher os campos CPF e senha.<br>4) Clicar no botão Login. |
+|**Critérios de Êxito** | "O usuário será direcionado à homepage e terá acesso ao Menu pessoal." |
+
  
 ## Ferramentas de Testes (Opcional)
 
