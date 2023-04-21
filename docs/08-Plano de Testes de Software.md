@@ -6,35 +6,35 @@ Obs: Para a realização do teste o banco de dados foi "limpo".
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
 
-|Caso de Teste | CT -1 Criação de Fornecedor |
+|Caso de Teste | CT -001 - Criação de Fornecedor |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-008 - Gereciamento de Fornecedor |
 |**Objetivo do Teste** | Avaliar funcionalidade de criação de fornecedor. |
 |**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/fornecedores e o método POST <br>3) Como elemnto JSON, preencher os atributos.<br>4) Clicar no botão Send. |
 |**Critérios de Êxito** | Será exibido no formato JSON o fornecedor criado, com os atributos preenchidos e o código 201 |
 
-|Caso de Teste | CT -2 Atualização de Fornecedor |
+|Caso de Teste | CT -001 - Atualização de Fornecedor |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-008 - Gereciamento de Fornecedor |
 |**Objetivo do Teste** | Avaliar funcionalidade de atualização de dados do fornecedor. |
 |**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/fornecedores/id e o método PUT <br>3) Como elemnto JSON, alterar os atributos (exceto Id).<br>4) Clicar no botão Send. |
 |**Critérios de Êxito** | Será exibido no formato JSON o fornecedor criado, com os atributos alterados e o código 204 |
 
-|Caso de Teste | CT -1 Exclusão de Fornecedor |
+|Caso de Teste | CT -001 - Exclusão de Fornecedor |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-008 - Gereciamento de Fornecedor |
 |**Objetivo do Teste** | Avaliar funcionalidade de criação de fornecedor. |
 |**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/fornecedores/id e o método DELETE <br>3) Clicar no botão Send. |
 |**Critérios de Êxito** | Nada será exibido no formato de JSON; código 204 |
 
-|Caso de Teste | CT -1 Recuperação de Fornecedor |
+|Caso de Teste | CT -001 - Recuperação de Fornecedor |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-008 - Gereciamento de Fornecedor |
 |**Objetivo do Teste** | Avaliar funcionalidade de recuperação de dados dos fornecedores criados (GETALL). |
 |**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/fornecedores e o método GET <br>3) Clicar no botão Send. |
 |**Critérios de Êxito** | Será exibido no formato JSON com todos os fornecedores criados o código 200 |
 
-|Caso de Teste | CT -1 Recuperação de Fornecedor |
+|Caso de Teste | CT -001 - Recuperação de Fornecedor |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-008 - Gereciamento de Fornecedor |
 |**Objetivo do Teste** | Avaliar recuperação de dados de um único fornecedor de acordo com o ID (GETID). |
@@ -49,28 +49,28 @@ Obs: Para a realização do teste o banco de dados foi "limpo".
 |**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/itens e o método POST <br>3) Como elemnto JSON, preencher os atributos e assossiar o ID do fornecedor já criado. <br>4) Clicar no botão Send. |
 |**Critérios de Êxito** | Será exibido no formato JSON o fornecedor criado, com os atributos preenchidos e o código 201 |
 
-|Caso de Teste | CT -2 Atualização de produto|
+|Caso de Teste | CT -002 - Atualização de produto|
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-004 - Gereciamento de produto |
 |**Objetivo do Teste** | Avaliar funcionalidade de atualização de dados do produto. |
 |**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/itens/id e o método PUT <br>3) Como elemnto JSON, alterar os atributos (exceto Id).<br>4) Clicar no botão Send. |
 |**Critérios de Êxito** | Será exibido no formato JSON o produtor criado, com os atributos alterados e o código 204 |
 
-|Caso de Teste | CT -1 Exclusão de produto |
+|Caso de Teste | CT -002 - Exclusão de produto |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-004 - Gereciamento de Produto |
 |**Objetivo do Teste** | Avaliar o funcionamento de exclusão de produto. |
 |**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/itens/id e o método DELETE <br>3) Clicar no botão Send. |
 |**Critérios de Êxito** | Nada será exibido no formato de JSON; código 204  |
 
-|Caso de Teste | CT -1 Recuperação de Produto |
+|Caso de Teste | CT -002 - Recuperação de Produto |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-004 - Gereciamento de Fornecedor |
 |**Objetivo do Teste** | Avaliar funcionalidade de recuperação de dados dos produtos criados (GETALL). |
 |**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/itens e o método GET <br>3) Clicar no botão Send. |
 |**Critérios de Êxito** | Será exibido no formato JSON com todos os produtos criados o código 200 |
 
-|Caso de Teste | CT -1 Recuperação de Produto |
+|Caso de Teste | CT -002 - Recuperação de Produto |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-004 - Gereciamento de Produto |
 |**Objetivo do Teste** | Avaliar recuperação de dados de um único produto de acordo com o ID (GETID). |
@@ -78,17 +78,42 @@ Obs: Para a realização do teste o banco de dados foi "limpo".
 |**Critérios de Êxito** | Será exibido no formato JSON com o produto correspondente código 200 |
 
 
-
-
-
-|Caso de Teste |CT-005 – Criação de Usuário |
+|Caso de Teste |CT-003 – Criação de Usuário |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-004 - Gereciamento de Usuários|
 |**Objetivo do Teste** | Avaliar funcionalidade de criação de usuário. |
-|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/usuarios e o método POST <br>3) Como elemnto JSON, preencher os atributos. <br>4) Clicar no botão Send. |
-|**Critérios de Êxito** | Será exibido no formato JSON o fornecedor criado, com os atributos preenchidos e o código 201 |
+|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/usuarios e o método POST <br>3) Como elemnto JSON, definir nome, cpf e senha. <br>4) Clicar no botão Send. |
+|**Critérios de Êxito** | Será exibido no formato JSON o usuario criado, com os atributos preenchidos e o código 201 |
 
+|Caso de Teste | CT -003 - Atualização de usuario|
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-005 - Gereciamento de usuario |
+|**Objetivo do Teste** | Avaliar funcionalidade de atualização de dados do usuario. |
+|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/itens/cpf e o método PUT <br>3) Como elemnto JSON, alterar os atributos (exceto ).<br>4) Clicar no botão Send. |
+|**Critérios de Êxito** | Será exibido no formato JSON o produtor criado, com os atributos alterados e o código 204 * |
 
+*OBS: Em função das especificações de segurança programadas até o momento, é esperado que este médoto não funcione gerando o código 405.
+
+|Caso de Teste | CT -003 - Exclusão de usuario |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-005 - Gereciamento de usuario |
+|**Objetivo do Teste** | Avaliar o funcionamento de exclusão de usuario. |
+|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/usuarios/cpf e o método DELETE <br>3) Clicar no botão Send. |
+|**Critérios de Êxito** | Será exibido Json vazio e o código código 204  |
+
+|Caso de Teste | CT -003 - Recuperação de usuario |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-005 - Gereciamento de usuario |
+|**Objetivo do Teste** | Avaliar funcionalidade de recuperação de dados dos usuarios criados (GETALL). |
+|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/usuario e o método GET <br>3) Clicar no botão Send. |
+|**Critérios de Êxito** | Será exibido no formato JSON com todos os usuarios criados o código 200 |
+
+|Caso de Teste | CT -003 - Recuperação de usuario |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-005 - Gereciamento de usuario |
+|**Objetivo do Teste** | Avaliar recuperação de dados de um único usuario de acordo com o CPF (GETID). |
+|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/usuario/cpf e o método GET <br>3) Clicar no botão Send. |
+|**Critérios de Êxito** | Será exibido no formato JSON com o usuario correspondente código 200 |
 
 
  
