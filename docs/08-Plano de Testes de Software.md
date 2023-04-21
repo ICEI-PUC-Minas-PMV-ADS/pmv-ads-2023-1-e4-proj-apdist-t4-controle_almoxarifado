@@ -9,16 +9,42 @@ Obs: Para a realização do teste o banco de dados foi "limpo".
 |Caso de Teste | CT -1 Criação de Fornecedor |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-008 - Gereciamento de Fornecedor |
-|**Entrada** |  |
 |**Objetivo do Teste** | Avaliar funcionalidade de criação de fornecedor. |
 |**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/fornecedores e o método POST <br>3) Como elemnto JSON, preencher os atributos.<br>4) Clicar no botão Send. |
 |**Critérios de Êxito** | Será exibido no formato JSON o fornecedor criado, com os atributos preenchidos e o código 201 |
+
+|Caso de Teste | CT -2 Atualização de Fornecedor |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-008 - Gereciamento de Fornecedor |
+|**Objetivo do Teste** | Avaliar funcionalidade de atualização de dados do fornecedor. |
+|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/fornecedores/id e o método PUT <br>3) Como elemnto JSON, alterar os atributos (exceto Id).<br>4) Clicar no botão Send. |
+|**Critérios de Êxito** | Será exibido no formato JSON o fornecedor criado, com os atributos alterados e o código 204 |
+
+|Caso de Teste | CT -1 Exclusão de Fornecedor |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-008 - Gereciamento de Fornecedor |
+|**Objetivo do Teste** | Avaliar funcionalidade de criação de fornecedor. |
+|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/fornecedores e o método POST <br>3) Como elemnto JSON, preencher os atributos.<br>4) Clicar no botão Send. |
+|**Critérios de Êxito** | Será exibido no formato JSON o fornecedor criado, com os atributos preenchidos e o código 201 |
+
+|Caso de Teste | CT -1 Recuperação de Fornecedor |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-008 - Gereciamento de Fornecedor |
+|**Objetivo do Teste** | Avaliar funcionalidade de recuperação de dados dos fornecedores criados (GETALL). |
+|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/fornecedores e o método GET <br>3) Clicar no botão Send. |
+|**Critérios de Êxito** | Será exibido no formato JSON com todos os fornecedores criados o código 200 |
+
+|Caso de Teste | CT -1 Recuperação de Fornecedor |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-008 - Gereciamento de Fornecedor |
+|**Objetivo do Teste** | Avaliar recuperação de dados de um único fornecedor de acordo com o ID (GETID). |
+|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/fornecedores/id e o método GET <br>3) Clicar no botão Send. |
+|**Critérios de Êxito** | Será exibido no formato JSON com o fornecedor correspondente código 200 |
 
 
 |Caso de Teste |CT-002 – Criação de Item |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-004 - Gereciamento de produtos |
-|**Entrada** |  |
 |**Objetivo do Teste** | Avaliar funcionalidade de criação de produto. |
 |**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/ e o método POST <br>3) Como elemnto JSON, preencher os atributos e assossiar o ID do fornecedor já criado. <br>4) Clicar no botão Send. |
 |**Critérios de Êxito** | Será exibido no formato JSON o fornecedor criado, com os atributos preenchidos e o código 201 |
@@ -27,10 +53,12 @@ Obs: Para a realização do teste o banco de dados foi "limpo".
 |Caso de Teste |CT-005 – Criação de Usuário |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-004 - Gereciamento de Usuários|
-|**Entrada** |  |
 |**Objetivo do Teste** | Avaliar funcionalidade de criação de usuário. |
 |**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/usuarios e o método POST <br>3) Como elemnto JSON, preencher os atributos. <br>4) Clicar no botão Send. |
 |**Critérios de Êxito** | Será exibido no formato JSON o fornecedor criado, com os atributos preenchidos e o código 201 |
+
+
+
 
  
 ## Ferramentas de Testes (Opcional)
