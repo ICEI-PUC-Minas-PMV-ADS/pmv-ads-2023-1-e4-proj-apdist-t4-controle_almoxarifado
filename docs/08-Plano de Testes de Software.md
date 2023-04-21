@@ -115,7 +115,15 @@ Obs: Para a realização do teste o banco de dados foi "limpo".
 |**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/usuario/cpf e o método GET <br>3) Clicar no botão Send. |
 |**Critérios de Êxito** | Será exibido no formato JSON com o usuario correspondente código 200 |
 
-
+|Caso de Teste | CT -003 - Autentificação de usuario |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-002 - Login/ Logout de usuario |
+|**Objetivo do Teste** | Avaliar a funcionalidade de Login dos usuarios cadastrados . |
+|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/Usuarios/Aythenticate e o método POST <br>3) Inserir CPF e senha do usuario e clicar em Send. <BR>4)Clicar no botão Send. |
+|**Critérios de Êxito** | Será gerado um token de segurança que valida o usuário**|
+ 
+ **OBS: O token gerado pode ser usado para definir graus de autoridade dentro do sistema, especificando atividades de acordo com o perfil do usuario.
+ 
  
 ## Ferramentas de Testes (Opcional)
 
