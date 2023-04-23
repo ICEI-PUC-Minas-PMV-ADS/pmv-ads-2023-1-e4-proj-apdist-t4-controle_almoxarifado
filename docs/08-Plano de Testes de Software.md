@@ -82,14 +82,14 @@ Obs: Para a realização do teste o banco de dados foi "limpo".
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-004 - Gereciamento de Usuários|
 |**Objetivo do Teste** | Avaliar funcionalidade de criação de usuário. |
-|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/usuarios e o método POST <br>3) Como elemnto JSON, definir nome, cpf e senha. <br>4) Clicar no botão Send. |
+|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/usuarios e o método POST <br>3) Como elemento JSON, definir nome, cpf e senha. <br>4) Clicar no botão Send. |
 |**Critérios de Êxito** | Será exibido no formato JSON o usuario criado, com os atributos preenchidos e o código 201 |
 
 |Caso de Teste | CT -003 - Atualização de usuario|
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-005 - Gereciamento de usuario |
 |**Objetivo do Teste** | Avaliar funcionalidade de atualização de dados do usuario. |
-|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/itens/cpf e o método PUT <br>3) Como elemnto JSON, alterar os atributos (exceto ).<br>4) Clicar no botão Send. |
+|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/itens/cpf e o método PUT <br>3) Como elemento JSON, alterar os atributos (exceto ).<br>4) Clicar no botão Send. |
 |**Critérios de Êxito** | Será exibido no formato JSON o produtor criado, com os atributos alterados e o código 204 * |
 
 *OBS: Em função das especificações de segurança programadas até o momento, é esperado que este médoto não funcione gerando o código 405.
