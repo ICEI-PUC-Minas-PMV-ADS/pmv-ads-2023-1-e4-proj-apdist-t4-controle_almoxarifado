@@ -22,29 +22,29 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 
+As telas a seguir apresentam a aplicação na versão web e mobile.
+
 ## Tela de Login:
 
 Permite ao usuário realizar login na aplicação, validando seus dados cadastrados previamente.
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/01-%20TELA%20DE%20LOGIN.png)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/TELA%20LOGIN.png)
 
 ## Tela de Inicio:
 Permite o usuário vizualizar a tela principal da aplicação.
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/02-%20TELA%20Inicio.png)
-
-## Tela de Cadastro de Clientes:
-
-Permite que o usuário cadastre os clientes.
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/03-%20TELA%20Cadastro%20de%20clientes.png)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/TELA%20INICIO.png)
 
 ## Tela de Cadastro de Fornecedores:
 
 Permite que o usuário cadastre os fornecedores.
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/04-%20TELA%20Cadastro%20de%20Fornecedores.png)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/TELA%20CADASTRO%20DE%20FONECEDORES.png)
 
 ## Tela de Cadastro de Estoque:
 
-Permite que o usuário cadastre os fornecedores.
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/05-%20TELA%20Estoque.png)
+Permite que o usuário tenha acesso ao estoque.
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/TELA%20ESTOQUE.png)
 
+ ## Tela de Rolatórios
  
+ Permite que o usuário obtenha relatórios em relação ao estoque.
+ ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/TELA%20RELAT%C3%93RIO.png)
 
