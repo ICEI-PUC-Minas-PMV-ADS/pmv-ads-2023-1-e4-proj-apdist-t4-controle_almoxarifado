@@ -22,7 +22,8 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 
->**Tela de Login**:
+**Tela de Login**:
+
 Permite ao usuário realizar login na aplicação, validando seus dados cadastrados previamente.
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/01-%20TELA%20DE%20LOGIN.png)
 
