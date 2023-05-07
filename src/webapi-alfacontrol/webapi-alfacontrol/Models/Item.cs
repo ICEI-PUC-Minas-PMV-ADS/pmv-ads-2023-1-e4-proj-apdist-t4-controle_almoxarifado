@@ -6,42 +6,27 @@ namespace webapi_alfacontrol.Models
 
     [Table("Itens")]
 
-    public class Item : LinksHATEOS
+    public class Item
     {
         [Key]
         public int Id { get; set; }
+
         [Required]
 
-        public string Nome { get; set; }
+        public string Descricao { get; set; }
+
         [Required]
 
-        public int Quantidade { get; set; }
+        public string Unidade { get; set; }
+
         [Required]
 
-        [Column(TypeName ="decimal(18,2)")]
-        public decimal Valor { get; set; }
+        public int EstoqueAtual { get; set; }
         [Required]
 
-        public DateTime DataEntrada { get; set; }
-        [Required]
-
-        public TipoMaterial Tipo { get; set;}
-        [Required]
-        public int FornecedorId { get; set; } // FK
-   
-
-        public Fornecedor Fornecedores { get; set; } // ??
+        public string MarcaProduto { get; set; }
 
     }
 
-    public enum TipoMaterial
-    {
-        [Display(Name = "Escritório")]
-        Escritório,
-        [Display(Name = "Limpeza")]
-        Limpeza,
-        [Display(Name = "Diversos")]
-        Diversos
-        
-    }
+    
 }
