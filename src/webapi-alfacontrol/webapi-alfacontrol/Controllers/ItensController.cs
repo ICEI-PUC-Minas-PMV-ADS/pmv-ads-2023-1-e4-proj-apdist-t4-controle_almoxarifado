@@ -6,7 +6,7 @@ using webapi_alfacontrol.Models;
 
 namespace webapi_alfacontrol.Controllers
 {
-    [Authorize]
+    //[Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class ItensController : ControllerBase
@@ -19,7 +19,7 @@ namespace webapi_alfacontrol.Controllers
             _context = context;
         }
 
-        [Authorize(Roles ="Administrador, Usuario")]
+        //[Authorize(Roles ="Administrador, Usuario")]
         [HttpGet]
         public async Task<ActionResult> GetAll()
         {
@@ -29,7 +29,7 @@ namespace webapi_alfacontrol.Controllers
 
         }
 
-        [Authorize(Roles = "Administrador, Usuario")]
+        //[Authorize(Roles = "Administrador, Usuario")]
         [HttpPost]
         public async Task<ActionResult> Create(Item model)
         {
@@ -43,17 +43,17 @@ namespace webapi_alfacontrol.Controllers
         public async Task<ActionResult> GetById(int id)
         {
             var model = await _context.Itens
-                .Include(t => t.Fornecedores)
+                //.Include(t => t.Fornecedores)
                 .FirstOrDefaultAsync(c => c.Id == id);
 
             if (model == null) return NotFound();
 
-            GerarLinks(model);
+           
             return Ok(model);
         }
 
 
-        [Authorize(Roles = "Administrador, Usuario")]
+        //[Authorize(Roles = "Administrador, Usuario")]
         [HttpPut("{id}")]
         public async Task<ActionResult> Update(int id, Item model)
         {
@@ -69,7 +69,7 @@ namespace webapi_alfacontrol.Controllers
             return NoContent();
         }
 
-        [Authorize(Roles = "Administrador")]
+        //[Authorize(Roles = "Administrador")]
         [HttpDelete("{id}")]
         public async Task<ActionResult> Delete(int id)
         {
@@ -83,13 +83,7 @@ namespace webapi_alfacontrol.Controllers
             return NoContent();
         }
 
-        private void GerarLinks(Item model)
-        {
-
-            model.links.Add(new LinkDto(model.Id, Url.ActionLink(), rel: "self", metodo: "GET"));
-            model.links.Add(new LinkDto(model.Id, Url.ActionLink(), rel: "update", metodo: "PUT"));
-            model.links.Add(new LinkDto(model.Id, Url.ActionLink(), rel: "delete", metodo: "Delete"));
-        }
+       
 
     }
 }
