@@ -16,7 +16,7 @@ O diagrama de classes ilustra graficamente como será a estrutura do software, e
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
 
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/Modelo%20ER.png"/>
+<img src=""/>
 
 ## Esquema Relacional
 
