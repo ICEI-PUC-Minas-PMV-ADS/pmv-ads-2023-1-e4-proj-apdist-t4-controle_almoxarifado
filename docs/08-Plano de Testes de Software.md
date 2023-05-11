@@ -124,15 +124,22 @@ Obs: Para a realização do teste o banco de dados foi "limpo".
  
  **OBS: O token gerado pode ser usado para definir graus de autoridade dentro do sistema, especificando atividades de acordo com o perfil do usuario.
  
+ # Plano de Testes de Software (WebApp)
+ 
+ Após a construção front-end e feita  a integração com a API construida na etapa anterior, serão realizados os seguintes testes:
+ 
+ Autentificação/Login
+ 
+ |Caso de Teste | CT -003 - Autentificação de usuario |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-002 - Login/ Logout de usuario |
+|**Objetivo do Teste** | Avaliar a funcionalidade de Login dos usuarios cadastrados . |
+|**Passos** | 1) Acessar a página de login.  <br>2) Digitar o número de usuário (cpf) no campo usuário e senha no campo Senha <br>3) Clicar no botão Enviar. <BR>4) |
+|**Critérios de Êxito** | Usuário terá renderizada a tela de Home da aplicação|
+ 
+ 
  
 ## Ferramentas de Testes (Opcional)
 
-Para a realização dos testes, foram utilizadas as ferramentas Postman e Insonnia. 
+Para a realização dos testes (API) foram utilizadas as ferramentas Swegger e Insonnia. 
  
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
