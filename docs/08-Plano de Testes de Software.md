@@ -134,10 +134,17 @@ Obs: Para a realização do teste o banco de dados foi "limpo".
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-002 - Login/ Logout de usuario |
 |**Objetivo do Teste** | Avaliar a funcionalidade de Login dos usuarios cadastrados . |
-|**Passos** | 1) Acessar a página de login.  <br>2) Digitar o número de usuário (cpf) no campo usuário e senha no campo Senha <br>3) Clicar no botão Enviar. <BR>4) |
+|**Passos** | 1) Acessar a página de login.  <br>2) Digitar o número de usuário (cpf) no campo usuário e senha no campo Senha <br>3) Clicar no botão Enviar. |
 |**Critérios de Êxito** | Usuário terá renderizada a tela de Home da aplicação|
  
+ Criação de usuário
  
+ |Caso de Teste |CT-003 – Criação de Usuário |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-004 - Gereciamento de Usuários|
+|**Objetivo do Teste** | Avaliar funcionalidade de criação de usuário. |
+|**Passos** | 1) Acessar a página de Login <br>2) Clicar em cadastrar-se/ registrar-se <br>3) Será aberta uma tela em que constam os campos usuario, nome, senha e tipo. <br>4)Inserir os dados nos campos descritos. <br/>5) Clicar em Salvar/Enviar |
+|**Critérios de Êxito** | O usuário será reencaminhado para página de login com uma mensagem de confirmação. |
  
 ## Ferramentas de Testes (Opcional)
 
