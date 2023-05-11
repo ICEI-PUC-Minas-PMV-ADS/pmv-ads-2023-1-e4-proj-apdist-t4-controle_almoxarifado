@@ -134,7 +134,7 @@ Obs: Para a realização do teste o banco de dados foi "limpo".
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-002 - Login/ Logout de usuario |
 |**Objetivo do Teste** | Avaliar a funcionalidade de Login dos usuarios cadastrados . |
-|**Passos** | 1) Acessar a página de login.  <br>2) Digitar o número de usuário (cpf) no campo usuário e senha no campo Senha <br>3) Clicar no botão Enviar. |
+|**Passos** | 1) Acessar a página de login.  <br>2) Digitar o número de usuário (cpf) no campo usuário e senha no campo Senha <br>3) Clicar no botão Enviar. <br/>4) Para sair, clicar no botão 'sair'localizado no canto direito superior|
 |**Critérios de Êxito** | Usuário terá renderizada a tela de Home da aplicação|
  
  Criação de usuário
@@ -143,7 +143,43 @@ Obs: Para a realização do teste o banco de dados foi "limpo".
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-004 - Gereciamento de Usuários|
 |**Objetivo do Teste** | Avaliar funcionalidade de criação de usuário. |
-|**Passos** | 1) Acessar a página de Login <br>2) Clicar em cadastrar-se/ registrar-se <br>3) Será aberta uma tela em que constam os campos usuario, nome, senha e tipo. <br>4)Inserir os dados nos campos descritos. <br/>5) Clicar em Salvar/Enviar |
+|**Passos** | 1) Acessar a página de Login <br>2) Clicar em cadastrar-se/ registrar-se <br>3) Será aberta uma tela em que constam os campos usuario, nome, senha e tipo. <br>4) Inserir os dados nos campos descritos. <br/>5) Clicar em Salvar/Enviar |
+ 
+ Gerencimnento de Item
+ 
+ |Caso de Teste |CT-002 – Criação de Produto |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-004 - Gereciamento de produtos |
+|**Objetivo do Teste** | Avaliar funcionalidade de criação de produto. |
+|**Passos** | 1) Na tela Home, o usuario de clicar no icone item/ produtos <br>2) Será aberta uma modal, devendo ser clicado o botão novo item <br>3) Será aberta uma nova modal, devendo-se inserir dados nos campos 'descrição', 'unidade', 'estoque' e 'marca'. <br>4) Clicar no botão Salvar. |
+|**Critérios de Êxito** | Será exibido em uma tabela o produto adicionado com os respectivos dados. |
+
+|Caso de Teste | CT -002 - Atualização de produto|
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-004 - Gereciamento de produtos |
+|**Objetivo do Teste** | Avaliar funcionalidade de atualização de produto. |
+|**Passos** | 1) Na tela Home, o usuario de clicar no icone item/ produtos <br>2) Será aberta uma modal, devendo ser clicado o botão novo item <br>3) Será aberta uma nova modal, devendo-se inserir dados nos campos 'descrição', 'unidade', 'estoque' e 'marca' JÁ preenchidos. <br>4) Fazer a modificação dos dados. <br/>5) Clicar em salvar |
+|**Critérios de Êxito** | Será exibido em uma tabela com os respectivos dados alterados. |
+
+|Caso de Teste | CT -002 - Exclusão de produto |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-004 - Gereciamento de Produto |
+|**Objetivo do Teste** | Avaliar o funcionamento de exclusão de produto. |
+|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/itens/id e o método DELETE <br>3) Clicar no botão Send. |
+|**Critérios de Êxito** | Nada será exibido no formato de JSON; código 204  |
+
+|Caso de Teste | CT -002 - Recuperação de Produto |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-004 - Gereciamento de Fornecedor |
+|**Objetivo do Teste** | Avaliar funcionalidade de recuperação de dados dos produtos criados (GETALL). |
+|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/itens e o método GET <br>3) Clicar no botão Send. |
+|**Critérios de Êxito** | Será exibido no formato JSON com todos os produtos criados o código 200 |
+ 
+ 
+ 
+ Gerenciamento de Fornecedor
+ 
+
 |**Critérios de Êxito** | O usuário será reencaminhado para página de login com uma mensagem de confirmação. |
  
 ## Ferramentas de Testes (Opcional)
