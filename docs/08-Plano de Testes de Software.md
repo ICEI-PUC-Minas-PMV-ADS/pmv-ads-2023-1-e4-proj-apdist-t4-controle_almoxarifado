@@ -176,11 +176,35 @@ Obs: Para a realização do teste o banco de dados foi "limpo".
 |**Passos** | 1) Acessar a tela home. <br>2) Clicar em 'estoque'. |
 |**Critérios de Êxito** | Será exibida tabela com os items já listados. |
  
- 
- 
  Gerenciamento de Fornecedor
  
+  |Caso de Teste |CT-002 – Criação de Fornecedor |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-004 - Gereciamento de fornecedor |
+|**Objetivo do Teste** | Avaliar funcionalidade de criação de fornecedor. |
+|**Passos** | 1) Na tela Home, o usuario de clicar no icone 'fornecedores <br>2) Será aberta uma modal, devendo ser clicado o botão novo fornecedor <br>3) Será aberta uma nova modal, devendo-se inserir dados nos campos 'CNPJ', 'nome', 'cep', 'rua, 'número', 'bairro' e 'cidade'. <br>4) Clicar no botão Salvar. |
+|**Critérios de Êxito** | Será exibido em uma tabela o produto adicionado com os respectivos dados. |
 
+|Caso de Teste | CT -002 - Atualização de produto|
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-004 - Gereciamento de produtos |
+|**Objetivo do Teste** | Avaliar funcionalidade de atualização de produto. |
+|**Passos** | 1) Na tela Home, o usuario de clicar no icone item/ produtos <br>2) Será aberta uma modal, devendo ser clicado o botão novo item <br>3) Será aberta uma nova modal, devendo-se inserir dados nos campos 'descrição', 'unidade', 'estoque' e 'marca' JÁ preenchidos. <br>4) Fazer a modificação dos dados. <br/>5) Clicar em salvar |
+|**Critérios de Êxito** | Será exibido em uma tabela com os respectivos dados alterados. |
+
+|Caso de Teste | CT -002 - Exclusão de produto |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-004 - Gereciamento de Produto |
+|**Objetivo do Teste** | Avaliar o funcionamento de exclusão de produto. |
+|**Passos** | 1) Na tela Home, o usuario de clicar no icone item/ produtos <br>2)  Será aberta uma modal, devendo ser clicado o botão excluir Item <br>3) Em seguida surgirá uma modal com botão de confirmação o qual deve ser clicado. |
+|**Critérios de Êxito** | O item escolhido será deletado.  |
+
+|Caso de Teste | CT -002 - Recuperação de Produto |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-004 - Gereciamento de Fornecedor |
+|**Objetivo do Teste** | Avaliar funcionalidade de recuperação de dados dos produtos criados. |
+|**Passos** | 1) Acessar a tela home. <br>2) Clicar em 'estoque'. |
+|**Critérios de Êxito** | Será exibida tabela com os items já listados. |
 
  
 ## Ferramentas de Testes (Opcional)
