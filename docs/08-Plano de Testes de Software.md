@@ -166,15 +166,15 @@ Obs: Para a realização do teste o banco de dados foi "limpo".
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-004 - Gereciamento de Produto |
 |**Objetivo do Teste** | Avaliar o funcionamento de exclusão de produto. |
-|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/itens/id e o método DELETE <br>3) Clicar no botão Send. |
-|**Critérios de Êxito** | Nada será exibido no formato de JSON; código 204  |
+|**Passos** | 1) Na tela Home, o usuario de clicar no icone item/ produtos <br>2)  Será aberta uma modal, devendo ser clicado o botão excluir Item <br>3) Em seguida surgirá uma modal com botão de confirmação o qual deve ser clicado. |
+|**Critérios de Êxito** | O item escolhido será deletado.  |
 
 |Caso de Teste | CT -002 - Recuperação de Produto |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-004 - Gereciamento de Fornecedor |
-|**Objetivo do Teste** | Avaliar funcionalidade de recuperação de dados dos produtos criados (GETALL). |
-|**Passos** | 1) Acessar a ferramenta de testes <br>2) Informar a URL: https://localhost:7163/api/itens e o método GET <br>3) Clicar no botão Send. |
-|**Critérios de Êxito** | Será exibido no formato JSON com todos os produtos criados o código 200 |
+|**Objetivo do Teste** | Avaliar funcionalidade de recuperação de dados dos produtos criados. |
+|**Passos** | 1) Acessar a tela home. <br>2) Clicar em 'estoque'. |
+|**Critérios de Êxito** | Será exibida tabela com os items já listados. |
  
  
  
