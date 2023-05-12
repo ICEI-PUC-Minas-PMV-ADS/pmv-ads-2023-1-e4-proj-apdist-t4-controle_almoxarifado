@@ -134,7 +134,7 @@ Obs: Para a realização do teste o banco de dados foi "limpo".
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-002 - Login/ Logout de usuario |
 |**Objetivo do Teste** | Avaliar a funcionalidade de Login dos usuarios cadastrados . |
-|**Passos** | 1) Acessar a página de login.  <br>2) Digitar o número de usuário (cpf) no campo usuário e senha no campo Senha <br>3) Clicar no botão Enviar. <br/>4) Para sair, clicar no botão 'sair'localizado no canto direito superior|
+|**Passos** | 1) Acessar a página de login.  <br>2) Digitar o número de usuário (cpf) no campo usuário e senha no campo Senha <br>3) Clicar no botão Enviar. <br/>4) Para sair, clicar no botão 'sair'localizado no canto direito superior da tela home.|
 |**Critérios de Êxito** | Usuário terá renderizada a tela de Home da aplicação|
  
  Criação de usuário
