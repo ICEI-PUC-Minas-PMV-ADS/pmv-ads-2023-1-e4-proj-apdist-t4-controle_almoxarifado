@@ -178,28 +178,28 @@ Obs: Para a realização do teste o banco de dados foi "limpo".
  
  Gerenciamento de Fornecedor
  
-  |Caso de Teste |CT-002 – Criação de Fornecedor |
+  |Caso de Teste |CT-008 – Criação de Fornecedor |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-004 - Gereciamento de fornecedor |
 |**Objetivo do Teste** | Avaliar funcionalidade de criação de fornecedor. |
 |**Passos** | 1) Na tela Home, o usuario de clicar no icone 'fornecedores <br>2) Será aberta uma modal, devendo ser clicado o botão novo fornecedor <br>3) Será aberta uma nova modal, devendo-se inserir dados nos campos 'CNPJ', 'nome', 'cep', 'rua, 'número', 'bairro' e 'cidade'. <br>4) Clicar no botão Salvar. |
 |**Critérios de Êxito** | Será exibido em uma tabela o produto adicionado com os respectivos dados. |
 
-|Caso de Teste | CT -002 - Atualização de fornecedor|
+|Caso de Teste | CT -008 - Atualização de fornecedor|
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-004 - Gereciamento de fornecedor |
 |**Objetivo do Teste** | Avaliar funcionalidade de atualização de fornecedor. |
 |**Passos** | 1) Na tela Home, o usuario de clicar no icone fornecedores <br>2) Será aberta uma modal, devendo ser clicado o botão 'editar' <br>3) Será aberta uma nova modal, devendo-se editar os dados nos campos 'CNPJ', 'nome', 'cep', 'rua, 'número', 'bairro' e 'cidade'. <br>4) Fazer a modificação dos dados. <br/>5) Clicar em salvar |
 |**Critérios de Êxito** | Será exibido em uma tabela com os respectivos dados alterados. |
 
-|Caso de Teste | CT -002 - Exclusão de Fornecedor |
+|Caso de Teste | CT -008 - Exclusão de Fornecedor |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-004 - Gereciamento de fornecedor |
 |**Objetivo do Teste** | Avaliar o funcionamento de exclusão de fornecedor. |
 |**Passos** | 1) Na tela Home, o usuario de clicar no icone fornecedores <br>2)  Será aberta uma modal, devendo ser clicado o botão excluir fornecedor <br>3) Em seguida surgirá uma modal com botão de confirmação o qual deve ser clicado. |
 |**Critérios de Êxito** | O item escolhido será deletado.  |
 
-|Caso de Teste | CT -002 - Recuperação de Fornecedor |
+|Caso de Teste | CT -008 - Recuperação de Fornecedor |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** |RF-004 - Gereciamento de Fornecedor |
 |**Objetivo do Teste** | Avaliar funcionalidade de recuperação de dados dos fornecedores criados. |
