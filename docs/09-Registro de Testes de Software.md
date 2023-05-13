@@ -23,6 +23,7 @@
 
 ## CT-002 Gerenciamento de Produto/Item
 
+# Inclusão
 Tela Inicial
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/teste%20Item/WhatsApp%20Image%202023-05-07%20at%2020.01.02.jpeg)
 
@@ -32,22 +33,24 @@ Inclusão de item
 Exibição de tabela com atualização do banco de dados
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/teste%20Item/WhatsApp%20Image%202023-05-07%20at%2020.01.00.jpeg)
 
+# Edição
+Tela que exibe os itens listados
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/teste%20Item/WhatsApp%20Image%202023-05-07%20at%2020.01.00.jpeg)
 
-
-
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/teste%20Item/WhatsApp%20Image%202023-05-07%20at%2020.00.59.jpeg)
-
-Edição de Item
-
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/teste%20Item/WhatsApp%20Image%202023-05-07%20at%2020.01.02.jpeg)
-
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/teste%20Item/WhatsApp%20Image%202023-05-07%20at%2020.01.01.jpeg)
-
-Exclusão de Item
-
+Tela com edição das características de um produto
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/teste%20Item/WhatsApp%20Image%202023-05-07%20at%2020.01.00%20(1).jpeg)
 
-![]()
+# Exclusão
+
+Tela com itens listados
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/teste%20Item/WhatsApp%20Image%202023-05-07%20at%2020.01.01%20(1).jpeg)
+
+Modal para confirmação de exclusão
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/teste%20Item/WhatsApp%20Image%202023-05-07%20at%2020.01.00%20(1).jpeg)
+
+lista final já atualizada 
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/teste%20Item/WhatsApp%20Image%202023-05-07%20at%2020.01.01.jpeg)
+
 
 
 ## Mobile
