@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9kMq94LGmCZI4g5MKOxt5GWTDEJ1ZLcPaBDCKgJ7bmc=",
+  "Source": "webapi-alfacontrol",
+  "BasePath": "_content/webapi-alfacontrol",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -3803,19 +3803,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\55359\\.nuget\\packages\\": {}
+    "C:\\Users\\Samuel_Leite\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\55359\\source\\repos\\webapi-alfacontrol\\webapi-alfacontrol\\webapi-alfacontrol.csproj",
+      "projectUniqueName": "C:\\Repositorios\\pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado\\src\\webapi-alfacontrol\\webapi-alfacontrol\\webapi-alfacontrol.csproj",
       "projectName": "webapi-alfacontrol",
-      "projectPath": "C:\\Users\\55359\\source\\repos\\webapi-alfacontrol\\webapi-alfacontrol\\webapi-alfacontrol.csproj",
-      "packagesPath": "C:\\Users\\55359\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\55359\\source\\repos\\webapi-alfacontrol\\webapi-alfacontrol\\obj\\",
+      "projectPath": "C:\\Repositorios\\pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado\\src\\webapi-alfacontrol\\webapi-alfacontrol\\webapi-alfacontrol.csproj",
+      "packagesPath": "C:\\Users\\Samuel_Leite\\.nuget\\packages\\",
+      "outputPath": "C:\\Repositorios\\pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado\\src\\webapi-alfacontrol\\webapi-alfacontrol\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\55359\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Samuel_Leite\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3823,6 +3828,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3887,7 +3893,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
