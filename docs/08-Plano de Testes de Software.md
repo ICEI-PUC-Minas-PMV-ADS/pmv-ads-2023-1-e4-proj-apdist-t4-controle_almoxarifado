@@ -124,15 +124,90 @@ Obs: Para a realização do teste o banco de dados foi "limpo".
  
  **OBS: O token gerado pode ser usado para definir graus de autoridade dentro do sistema, especificando atividades de acordo com o perfil do usuario.
  
+ # Plano de Testes de Software (WebApp)
+ 
+ Após a construção front-end e feita  a integração com a API construida na etapa anterior, serão realizados os seguintes testes:
+ 
+ Autentificação/Login
+ 
+ |Caso de Teste | CT -003 - Autentificação de usuario |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-002 - Login/ Logout de usuario |
+|**Objetivo do Teste** | Avaliar a funcionalidade de Login dos usuarios cadastrados . |
+|**Passos** | 1) Acessar a página de login.  <br>2) Digitar o número de usuário (cpf) no campo usuário e senha no campo Senha <br>3) Clicar no botão Enviar. <br/>4) Para sair, clicar no botão 'sair'localizado no canto direito superior da tela home.|
+|**Critérios de Êxito** | Usuário terá renderizada a tela de Home da aplicação|
+ 
+ Criação de usuário
+ 
+ |Caso de Teste |CT-003 – Criação de Usuário |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-004 - Gereciamento de Usuários|
+|**Objetivo do Teste** | Avaliar funcionalidade de criação de usuário. |
+|**Passos** | 1) Acessar a página de Login <br>2) Clicar em cadastrar-se/ registrar-se <br>3) Será aberta uma tela em que constam os campos usuario, nome, senha e tipo. <br>4) Inserir os dados nos campos descritos. <br/>5) Clicar em Salvar/Enviar |
+ |**Critérios de Êxito** | O usuário será reencaminhado para página de login com uma mensagem de confirmação. |
+ 
+ Gerencimnento de Item
+ 
+ |Caso de Teste |CT-002 – Criação de Produto |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-004 - Gereciamento de produtos |
+|**Objetivo do Teste** | Avaliar funcionalidade de criação de produto. |
+|**Passos** | 1) Na tela Home, o usuario de clicar no icone item/ produtos <br>2) Será aberta uma modal, devendo ser clicado o botão novo item <br>3) Será aberta uma nova modal, devendo-se inserir dados nos campos 'descrição', 'unidade', 'estoque' e 'marca'. <br>4) Clicar no botão Salvar. |
+|**Critérios de Êxito** | Será exibido em uma tabela o produto adicionado com os respectivos dados. |
+
+|Caso de Teste | CT -002 - Atualização de produto|
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-004 - Gereciamento de produtos |
+|**Objetivo do Teste** | Avaliar funcionalidade de atualização de produto. |
+|**Passos** | 1) Na tela Home, o usuario de clicar no icone item/ produtos <br>2) Será aberta uma modal, devendo ser clicado o botão novo item <br>3) Será aberta uma nova modal, devendo-se inserir dados nos campos 'descrição', 'unidade', 'estoque' e 'marca' JÁ preenchidos. <br>4) Fazer a modificação dos dados. <br/>5) Clicar em salvar |
+|**Critérios de Êxito** | Será exibido em uma tabela com os respectivos dados alterados. |
+
+|Caso de Teste | CT -002 - Exclusão de produto |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-004 - Gereciamento de Produto |
+|**Objetivo do Teste** | Avaliar o funcionamento de exclusão de produto. |
+|**Passos** | 1) Na tela Home, o usuario de clicar no icone item/ produtos <br>2)  Será aberta uma modal, devendo ser clicado o botão excluir Item <br>3) Em seguida surgirá uma modal com botão de confirmação o qual deve ser clicado. |
+|**Critérios de Êxito** | O item escolhido será deletado.  |
+
+|Caso de Teste | CT -002 - Recuperação de Produto |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-004 - Gereciamento de Fornecedor |
+|**Objetivo do Teste** | Avaliar funcionalidade de recuperação de dados dos produtos criados. |
+|**Passos** | 1) Acessar a tela home. <br>2) Clicar em 'estoque'. |
+|**Critérios de Êxito** | Será exibida tabela com os items já listados. |
+ 
+ Gerenciamento de Fornecedor
+ 
+  |Caso de Teste |CT-008 – Criação de Fornecedor |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-004 - Gereciamento de fornecedor |
+|**Objetivo do Teste** | Avaliar funcionalidade de criação de fornecedor. |
+|**Passos** | 1) Na tela Home, o usuario de clicar no icone 'fornecedores <br>2) Será aberta uma modal, devendo ser clicado o botão novo fornecedor <br>3) Será aberta uma nova modal, devendo-se inserir dados nos campos 'CNPJ', 'nome', 'cep', 'rua, 'número', 'bairro' e 'cidade'. <br>4) Clicar no botão Salvar. |
+|**Critérios de Êxito** | Será exibido em uma tabela o produto adicionado com os respectivos dados. |
+
+|Caso de Teste | CT -008 - Atualização de fornecedor|
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-004 - Gereciamento de fornecedor |
+|**Objetivo do Teste** | Avaliar funcionalidade de atualização de fornecedor. |
+|**Passos** | 1) Na tela Home, o usuario de clicar no icone fornecedores <br>2) Será aberta uma modal, devendo ser clicado o botão 'editar' <br>3) Será aberta uma nova modal, devendo-se editar os dados nos campos 'CNPJ', 'nome', 'cep', 'rua, 'número', 'bairro' e 'cidade'. <br>4) Fazer a modificação dos dados. <br/>5) Clicar em salvar |
+|**Critérios de Êxito** | Será exibido em uma tabela com os respectivos dados alterados. |
+
+|Caso de Teste | CT -008 - Exclusão de Fornecedor |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-004 - Gereciamento de fornecedor |
+|**Objetivo do Teste** | Avaliar o funcionamento de exclusão de fornecedor. |
+|**Passos** | 1) Na tela Home, o usuario de clicar no icone fornecedores <br>2)  Será aberta uma modal, devendo ser clicado o botão excluir fornecedor <br>3) Em seguida surgirá uma modal com botão de confirmação o qual deve ser clicado. |
+|**Critérios de Êxito** | O item escolhido será deletado.  |
+
+|Caso de Teste | CT -008 - Recuperação de Fornecedor |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** |RF-004 - Gereciamento de Fornecedor |
+|**Objetivo do Teste** | Avaliar funcionalidade de recuperação de dados dos fornecedores criados. |
+|**Passos** | 1) Acessar a tela home. <br>2) Clicar em 'fornecedor'. |
+|**Critérios de Êxito** | Será exibida tabela com os fornecedores já listados. |
+
  
 ## Ferramentas de Testes (Opcional)
 
-Para a realização dos testes, foram utilizadas as ferramentas Postman e Insonnia. 
+Para a realização dos testes (API) foram utilizadas as ferramentas Swegger e Insonnia. 
  
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
