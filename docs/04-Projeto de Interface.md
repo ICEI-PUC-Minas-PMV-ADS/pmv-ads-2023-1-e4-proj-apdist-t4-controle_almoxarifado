@@ -27,7 +27,7 @@ Permite o usuário vizualizar a tela principal da aplicação.
 ## Tela de Cadastro de Fornecedores:
 
 Permite que o usuário cadastre os fornecedores.
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/TELA%20CADASTRO%20DE%20FONECEDORES.png)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-apdist-t4-controle_almoxarifado/blob/main/docs/img/TELA%20Cadastro%20de%20Fornecedores.png)
 
 ## Tela de Cadastro de Estoque:
 
