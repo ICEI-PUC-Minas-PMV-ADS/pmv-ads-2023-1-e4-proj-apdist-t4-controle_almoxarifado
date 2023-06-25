@@ -36,16 +36,16 @@ Realizados os testes, será feita análise quantitativa dos aspectos negativos o
 
 | `Caso de teste ` | ` CTU-004 Registro de atendimento  `        | ` Dificuldade  ` | `  Grau Satisfação geral  ` |` Análise `|
 |:---:|:---:|:---:|:---:|:---:|
-| Objetivo do teste            | Usuário identifica símbolo e legenda  |  Não há |  Total |  Fácil usabilidade, sem erros, compreensão geral.  |
+| Objetivo do teste            | Usuário identifica símbolo e legenda  |  - |  - |   Não realizada.  |
 | Critérios de Êxito           | O atendimento será registrado e o profissional será direcionado ao menu inicial|
 
 
 | `Caso de teste ` | ` CTU-005 Emissão de relatório `            | ` Dificuldade  ` | `  Grau Satisfação geral  ` |` Análise `|
 |:---:|:---:|:---:|:---:|:---:|
-| Objetivo do teste            | Verificar se o sistema emite relatório|  Não há |  Total |  Fácil usabilidade, sem erros, compreensão geral.  |
+| Objetivo do teste            | Verificar se o sistema emite relatório|  - |  - |   Não realizada.   |
 | Critérios de Êxito           | O usuário visualizará campo para impressão ou download do relatório|
 
 | `Caso de teste ` | ` CTU-006 Recuperação de senha `            | ` Dificuldade  ` | `  Grau Satisfação geral  ` |` Análise `|
 |:---:|:---:|:---:|:---:|:---:|
-| Objetivo do teste            | Verificar se o usuário consegue recuperar a senha  |  Poderia aparecer a mensagem de alteração da senha | Parcial  |  Apesar retornar ao menu inicial, em uma nova versão poderá ser implementada a validação da alteração |
+| Objetivo do teste            | Verificar se o usuário consegue recuperar a senha  |  -| -  |   Não realizada.  |
 | Critérios de Êxito           | O usuário será redirecionado para a página de Login|
