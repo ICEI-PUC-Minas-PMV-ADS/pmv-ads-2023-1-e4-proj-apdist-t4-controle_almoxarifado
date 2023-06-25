@@ -19,18 +19,18 @@ O método utilizado é de medição e avaliação. O teste visa a avaliar:
 Realizados os testes, será feita análise quantitativa dos aspectos negativos observados, bem como poderá incluir comentários sobre a qualidade da aplicação. 
 | `Caso de teste ` | ` CTU-001 Login do usuário ` | ` Dificuldade  ` | `  Grau Satisfação geral  ` |` Análise `|
 |:---:|:---:|:---:|:---:|:---:|
-| Objetivo do teste | Realizar login no sistema      |   Não há   |         Total           |        Fácil usabilidade, sem erros, compreensão geral.      |
+| Objetivo do teste | Realizar login no sistema      |   -  |         -           |        Não realizada.     |
 | Critérios de Êxito | O usuário será direcionado à homepage e terá acesso ao Menu pessoal|
 
 | `Caso de teste ` | ` CTU-002 Cadastrar novo usuário `         | ` Dificuldade  ` | `  Grau Satisfação geral  ` |` Análise `|
 |:---:|:---:|:---:|:---:|:---:|
-| Objetivo do teste | Identificar opção de cadastro e criar usuário  |  Não apareceu máscara no CPF | Total |  Mediante observação do usuário corrigido a máscara do CPF |
+| Objetivo do teste | Identificar opção de cadastro e criar usuário  |  - | - |   Não realizada. |
 | Critérios de Êxito | O usuário será direcionado à página de login|
 
 
 | `Caso de teste ` | ` CTU-003 Editar Cadastro `               | ` Dificuldade  ` | `  Grau Satisfação geral  ` |` Análise `|
 |:---:|:---:|:---:|:---:|:---:|
-| Objetivo do teste            | Verificar se é claro as informações de preenchimento  | Não há confirmação de alteração  |  Parcial | Apesar retornar ao menu inicial, em uma nova versão poderá ser implementada a validação da alteração |
+| Objetivo do teste            | Verificar se é claro as informações de preenchimento  | -  | - |  Não realizada.  |
 | Critérios de Êxito           | Usuário será direcionado para a página Meus dados|
 
 
